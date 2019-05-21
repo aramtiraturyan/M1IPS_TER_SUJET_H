@@ -1,0 +1,933 @@
+﻿http://data.doremus.org/expression/7a3f5fe4-4ceb-37b0-a3a7-7f1ae89758e7,,,D 182,,,FELLINGER
+http://data.doremus.org/expression/4536cedf-abc7-3706-977d-25be078d6446,,,H 52,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/59d1670d-a08c-3b4b-9930-23563dddb159,,,Z 587,,,John Fletcher
+http://data.doremus.org/expression/86b96f0d-b8f0-367a-93f9-beeb42b5fcb9,,,MH 837,,,Michael HAYDN
+http://data.doremus.org/expression/a8a29025-af4a-3265-9b8a-381309e488e6,,,Hob XXVIa:42,,,Anne HUNTER
+http://data.doremus.org/expression/64136db5-c1b0-3265-a6d7-4216b1ff208b,,,W 307,,,Edouard GUINAND
+http://data.doremus.org/expression/0daafa29-b67f-33fc-b915-b7f6559ae4a6,,,TrV 272,,,Joseph GREGOR
+http://data.doremus.org/expression/7fb99368-4492-3446-b3fa-cc37e8a07e68,,,BWV 177,,,Agricola Johann
+http://data.doremus.org/expression/92dceed9-f618-3c32-a83b-c227da36b012,,,JB 1:64, T 64,,,Bedrich SMETANA
+http://data.doremus.org/expression/a80753c8-ea41-3847-830d-74aabc85ac07,,,AV 76,,,Stieler Karl
+http://data.doremus.org/expression/bb42f44c-0b88-3f3f-b403-4edf010d5b29,,,BUX WV 102,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/1ee5545c-36fa-363c-887e-fbc76cbe76ad,,,RV 606,,,Antonio VIVALDI
+http://data.doremus.org/expression/90ec2b34-8bfe-3a80-813d-cc9f71955735,,,EG 130,,,Bjornstjerne BJORNSON
+http://data.doremus.org/expression/4e50c9ce-0fb5-3720-82ff-6c87b20f243f,,,SWV 464,,,Heinrich SCHUTZ
+http://data.doremus.org/expression/ad308825-941a-35bb-ab5c-ec8331e72707,,,WoO 100,,,ANONYME
+http://data.doremus.org/expression/77d6b469-6466-39a4-b433-f95351fec25e,,,B 538 / B 539 / B 540 / B 541 / B 542 / B 543,,,Ignace Joseph PLEYEL
+http://data.doremus.org/expression/2d927d4c-2a86-3e4b-b5f9-b141bc8bd70e,,,D 579,,,Anton OTTENWALT
+http://data.doremus.org/expression/d2ef6316-c425-37ff-ae88-339c941fb750,,,K 390 (340c),,,J T HERMES
+http://data.doremus.org/expression/6166d641-2ac4-3a80-8e6e-f38c8bb55661,,,W 288,,,Charles GRANDMOUGIN
+http://data.doremus.org/expression/383dfcef-3951-3dd6-a463-9c78b8306fdc,,,Hess 13,,,Willy HESS , ANONYME
+http://data.doremus.org/expression/8d400ff5-e5b9-3fc1-ae24-85894752ebb0,,,S 350 / R 658,,,Alexis Nikolaïevitch TOLSTOI
+http://data.doremus.org/expression/614e38cf-2ed3-335f-afd7-47e7041f8e0c,,,D 542,,,MAYRHOFER
+http://data.doremus.org/expression/23c9d776-6fbf-3f6a-8233-0e801fd6f9dd,,,K 150,,,Johann Christian GUNTHER
+http://data.doremus.org/expression/328933f6-3412-3ce0-ad58-2ee6c9e55c6a,,,Hol 111,,,Almire Gandonnière
+http://data.doremus.org/expression/123613eb-49a3-3830-836d-ab6a5cbfda14,,,TrV 278,,,Joseph GREGOR
+http://data.doremus.org/expression/46cc72f0-c582-3c00-bae3-1de2f192352c,,,N° 194,,,Camille SAINT SAENS
+http://data.doremus.org/expression/7c88685c-c4ac-3903-8d90-e603f0216610,,,H 124,,,Adolphe de BOUCLON
+http://data.doremus.org/expression/8a0aec00-6ec4-3e46-9f31-f6e8923079e2,,,FP 117,,,Maurice FOMBEURE
+http://data.doremus.org/expression/07fbfe8e-1cc4-3174-8065-24f64e520540,,,TrV 271,,,Joseph GREGOR
+http://data.doremus.org/expression/3e0ff473-15b7-3d5c-83f1-202c2d127562,,,D 938,,,LEITNER
+http://data.doremus.org/expression/ee9670df-549e-3b88-a0b8-f9840298fb50,,,HWV 52,,,Samuel HUMPHREYS
+http://data.doremus.org/expression/de588216-2e72-3e5d-8714-69a0a354f242,,,D 442,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/700f4c34-97d6-3ca9-adfa-503f67ed6e6c,,,BWV 13,,,Georg Christian Lehms
+http://data.doremus.org/expression/c6ae890b-c0de-3157-b501-7798ad7668f5,,,L 115 / (102),,,Charles d' ORLEANS
+http://data.doremus.org/expression/17f22c52-08f1-373e-921c-761b757f2ac9,,,P 167,,,Ottorino RESPIGHI
+http://data.doremus.org/expression/3fd1c0de-7f90-3d23-a9d4-4e917ee7b4ce,,,Hob XX/2,,,Gottfried VAN SWIETEN
+http://data.doremus.org/expression/ee03a993-8797-33ce-94a2-e9e9922d7a0d,,,D 238,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/c69269dc-bd6b-3310-8d69-fe3517e8356b,,,WoO 181,,,ANONYME
+http://data.doremus.org/expression/eb9ed4b8-00d7-3ff4-b398-20465d7cc42b,,,BWV 117,,,Schütz Johann Jakob
+http://data.doremus.org/expression/1d1203f5-ace3-34cf-b3ff-9cf72d232c00,,,16,,,Veber Michel alias Nino
+http://data.doremus.org/expression/f8ba48da-f21f-3784-a968-644ae9d4039d,,,FS 14 / CNW 121, 122, 123, 124, 125,,,Jens Peter JACOBSEN
+http://data.doremus.org/expression/0f5d50cc-1c0c-3b97-a44f-7dbdae1446bd,,,D 786,,,SCHOBER
+http://data.doremus.org/expression/7934ffa7-f913-3918-9b0c-60a744548c8f,,,SWV 392,,,Heinrich SCHUTZ
+http://data.doremus.org/expression/98c2ec66-429a-3967-8431-ef24442dcb95,,,D 314,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/d0db4266-a42a-3d7d-b88f-6f45e69e8edc,,,EG 154,,,Otto BENZON
+http://data.doremus.org/expression/e7ba31cf-5320-3c87-844c-0cf9699442d5,,,WoO 116,,,Jean-Jacques (Philosophe) ROUSSEAU
+http://data.doremus.org/expression/45b2ad0d-2a66-3da2-9a4c-783a1ad6cfcd,,,D 658,,,NOVALIS
+http://data.doremus.org/expression/aea4e812-a305-33e2-b19e-f18087c2f505,,,L 81 / (74),,,Hyspa Vincent
+http://data.doremus.org/expression/9030ef82-5382-3cbe-abe5-e00b6545896e,,,D 869,,,SCHLEChtA
+http://data.doremus.org/expression/dab580de-8d8c-30e3-83dd-4c26035976c6,,,D 932,,,LEITNER
+http://data.doremus.org/expression/dab9b440-5090-3ee7-95b0-da60fbe22926,,,H 15,,,Albert du BOYS
+http://data.doremus.org/expression/c66731de-a292-3564-b6a9-0e53ac11d51e,,,D 143,,,SCHOBER
+http://data.doremus.org/expression/8aa1cc7f-72e6-3abf-a9c7-4106178d980e,,,WoO 115,,,ANONYME
+http://data.doremus.org/expression/c40b8751-be3a-3e61-8455-bd8a39a3748d,,,D 436,,,HOLTY
+http://data.doremus.org/expression/fd90d482-7201-34a3-88bf-25ef94281535,,,MH 574,,,Michael HAYDN
+http://data.doremus.org/expression/c4d518d8-e39b-3b97-9130-a17c1185c0af,,,BUX WV 82,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/b99d5f39-5da0-3071-92a0-1d9fddc9ca46,,,L 57 / (53),,,Stéphane MALLARME
+http://data.doremus.org/expression/178e136b-8fcf-39ae-9568-15a509451df0,,,D 751,,,Graf PLATEN
+http://data.doremus.org/expression/4872295a-896b-3a8c-a8ad-aea2e9067d24,,,HWV 199,,,Ortensio MAURO
+http://data.doremus.org/expression/2d698efc-be7b-375a-ada7-57e4289a171c,,,FS 80 / CNW 15,,,Rode Helge
+http://data.doremus.org/expression/20074647-f377-3fcb-b654-7a5549842edd,,,W 271,,,Edouard GUINAND
+http://data.doremus.org/expression/6fac3478-3aed-389b-96f4-f3a3df54eec5,,,W 365,,,René NIVERD
+http://data.doremus.org/expression/9bde35bd-3734-3ad0-a228-582d5d5237ca,,,Hob XXVIII:13,,,Carlo Francesco BADINI
+http://data.doremus.org/expression/d0f6370f-9451-31fc-b755-e48c115f8720,,,D 788,,,STOLBERG
+http://data.doremus.org/expression/1d6924d0-1c5a-3a0a-9042-3e45f093f54f,,,W 294,,,Rosemonde GERARD
+http://data.doremus.org/expression/43461c58-afda-3f1d-81e7-1735303ede2a,,,S 299 / R 627,,,Horvath P.
+http://data.doremus.org/expression/20fe225f-dbd9-3c5d-90a6-a2b2d48fe120,,,TrV 236,,,Kerr Alfred
+http://data.doremus.org/expression/8a5fad16-9614-30f8-a613-ffbfca88b63f,,,K 369,,,Pierre METASTASE
+http://data.doremus.org/expression/36036e6e-eef2-3ad8-8353-5d9b7bfce0d6,,,D 524 c,,,MAYRHOFER
+http://data.doremus.org/expression/07ccc7f4-32a7-31c3-8c63-dadf22424f3b,,,Z 630,,,Robert Howard
+http://data.doremus.org/expression/5e714e77-aee1-3543-97ab-2ca1e728e2aa,,,W 353,,,René NIVERD
+http://data.doremus.org/expression/c851394d-6744-3468-94fd-9da99baf1135,,,NB 33,,,Raoul PUGNO
+http://data.doremus.org/expression/511fc448-bf81-3366-9cc9-47387132e035,,,Z 368,,,ANONYME
+http://data.doremus.org/expression/2a9f1cfa-7eca-3c40-94df-ceef0d6710a2,,,D 516,,,MAYRHOFER
+http://data.doremus.org/expression/4bba5e48-0a2a-36cf-bfef-df5347f91eef,,,SWV 33,,,Heinrich SCHUTZ
+http://data.doremus.org/expression/6f85d2aa-dd46-39df-ba40-c90369473130,,,W 388,,,Philippe d' OHSSON
+http://data.doremus.org/expression/2ca0d4f2-7a87-32d7-a05f-ce6ca0053e8c,,,BUX WV 81,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/b1ae4d81-5f7d-38ad-90ae-12cc49950416,,,Ms 19,,,Niccolo PAGANINI
+http://data.doremus.org/expression/63aaaced-6f10-3bd2-9208-0bcb62b7aacd,,,W 380,,,L FORTOLIS
+http://data.doremus.org/expression/30aa3167-1847-3c28-8749-ed92ad9d223c,,,D 434,,,HOLTY
+http://data.doremus.org/expression/29b36e83-20e2-3e86-9687-8691172bcd18,,,D 322,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/449e9e66-6641-395c-b475-e15390c15568,,,AV 42,,,Fallersleben August Heinrich Hoffmann von
+http://data.doremus.org/expression/be59f431-b646-3b6f-93b0-dbddb537af93,,,BWV 137,,,Neander Joachim
+http://data.doremus.org/expression/6f69ce1f-4d9a-3db6-ab6e-807ad779fdc1,,,BUX WV 14,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/4bb4c738-073e-3271-9286-4f8312270cf0,,,H 23,,,Humbert FERRAND
+http://data.doremus.org/expression/78dfa11a-74b8-37ae-b9cf-ff2cff598d30,,,J 67,,,Müchler Carl
+http://data.doremus.org/expression/b54fdefb-b883-3df4-b3fb-bda0c3174aef,,,K 178,,,Alice KLENGEL
+http://data.doremus.org/expression/c6046cb7-3d30-3d2c-b0a5-c3ad5c88f6ca,,,D 743,,,J C SENN
+http://data.doremus.org/expression/a211bc80-05e6-3d6c-8c99-7fdfc67f925d,,,L 68 / (61),,,Henri BUSSER
+http://data.doremus.org/expression/0ccae066-2f79-3b50-8b2e-af248b111e98,,,D 902,,,Pierre METASTASE
+http://data.doremus.org/expression/bb2c0de4-029c-3752-923e-b8b8ba5974a7,,,D 536,,,MAYRHOFER
+http://data.doremus.org/expression/fc1f4482-7b23-38a6-adf8-a4e120f5f657,,,MH 79,,,Michael HAYDN
+http://data.doremus.org/expression/259dc35a-8031-332f-acfb-80ebd7693c3a,,,SWV 379,,,Heinrich SCHUTZ
+http://data.doremus.org/expression/8db82382-48ae-3996-941f-cdd5e0bd4ff7,,,Z 422,,,Abraham COWLEY,
+http://data.doremus.org/expression/cf6a79e2-546e-366d-acf4-2018950ad7e5,,,E.F. 86 409,,,Bérel Eugène
+http://data.doremus.org/expression/c53cffc7-f58d-381e-bcb4-ec88aac04964,,,BWV 53 / Anh II 23,,,Hoffmann Georg Melchior
+http://data.doremus.org/expression/795dc537-b2f8-3063-b691-e1ef27d98db9,,,WoO 187,,,ANONYME
+http://data.doremus.org/expression/b946cba5-da69-3326-9249-133933c2792c,,,D 609,,,J K UNGER
+http://data.doremus.org/expression/c4648097-0d04-3bfd-a89e-0b2512651b0c,,,H 5,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/31d9fb1e-7282-36a8-9426-c72edee7f104,,,Z 385,,,ANONYME
+http://data.doremus.org/expression/f435b0bb-d4de-38dd-b88a-bc6403a77957,,,BUX WV 8,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/57222d0a-b0f8-3d28-867b-92bd1ca300b4,,,D 287,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/e5c2afbf-2f2b-3959-bd48-596713b39bee,,,RV 644,,,Antonio VIVALDI , Giacomo CASSETTI
+http://data.doremus.org/expression/c9be9a53-7f55-324e-84e3-582661383b13,,,EG 134,,,Bjornstjerne BJORNSON
+http://data.doremus.org/expression/043cba8d-b886-31e7-a7d0-cbedfb607d82,,,Z 464,,,Nathaniel TATE
+http://data.doremus.org/expression/ecc02611-0d78-3669-84ee-f3d6b9c32335,,,S 141 / R 3b,,,Niccolo PAGANINI
+http://data.doremus.org/expression/22bbdeca-f188-39ea-a523-6f0958175464,,,D 241,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/d63dedf2-0ea5-3466-a77a-4417b76d23ac,,,K 350,,,Friedrich Wilhelm GOTTER
+http://data.doremus.org/expression/f6be7507-35ff-362e-8686-614df281361f,,,W 267,,,Charles GRANDMOUGIN
+http://data.doremus.org/expression/9529efc2-906f-390a-a194-210b1ffd7961,,,H 233,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/a6b6af9e-3b9e-3a00-a208-65858113f4be,,,K 346 (439a),,,Pierre METASTASE
+http://data.doremus.org/expression/082902fb-c0b5-37ad-80d1-30c7a74e7e07,,,H 258,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/ac5b7664-deb5-344a-97b9-cbfc7e2889c8,,,H 345,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/6fba0939-a854-32fc-af37-88ee51cb0872,,,FS 12 / CNW 116, 117, 118, 119, 120,,,Jens Peter JACOBSEN
+http://data.doremus.org/expression/0ade0757-3d70-33d1-8967-8a53e4a60d0c,,,Anh III 180,,,Kellner Johann Peter
+http://data.doremus.org/expression/dae04b06-61ea-3b83-be1d-8b4a226bee95,,,K 517,,,Friedrich von HAGUEDORN
+http://data.doremus.org/expression/4c990b48-116a-335b-bfc9-ce1e39f0c176,,,H 7,,,Jules LAFORGUE , Francis JAMMES , Tchobanian Archag
+http://data.doremus.org/expression/b41918ff-623a-3974-a4ad-618b924c9f03,,,K 519,,,Karl Klamer KLAMER SCHMIDT
+http://data.doremus.org/expression/52d9eb0d-1609-3cb2-88e7-1f7a679cba0d,,,D 611,,,KORNER
+http://data.doremus.org/expression/066de4f8-8f37-3ce3-9dc7-bd927559870d,,,26992H.L.,,,Jean Marc SINGIER
+http://data.doremus.org/expression/ad47d1b9-da23-3c82-b412-47e1a155b7d2,,,CT 133,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/86ce8c5c-b65e-3967-8b1f-0f25092c31a3,,,D 797,,,Chézy Helmina von
+http://data.doremus.org/expression/3b5c6022-4900-36e5-9ef8-9eecb0e64bef,,,FP 79,,,Pierre de RONSARD
+http://data.doremus.org/expression/d28d6092-0dac-3737-9eba-eaa3d388966a,,,L 149 / (141),,,Louis LALOY
+http://data.doremus.org/expression/91964ad6-314c-3e2a-944e-4c48dfb44a9e,,,Z 443,,,ANONYME
+http://data.doremus.org/expression/adc1e4f2-c949-3dd7-b8fe-ae4d79a9ad72,,,90a,,,Aguet William
+http://data.doremus.org/expression/687331ae-4e8e-3022-9f4d-ad8ff8847abe,,,BUX WV 41,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/2397568c-7e6e-34ee-816a-88df286c3407,,,D 78,,,Pierre METASTASE
+http://data.doremus.org/expression/3573ac40-67f6-3620-9450-a63e5d3b96a6,,,HWV 7b,,,Giacomo ROSSI , Samuel HUMPHREYS
+http://data.doremus.org/expression/49307d15-14f5-3c98-9b7b-d3bbd0b5236a,,,H 374,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/c8be508f-e830-3619-b1ab-a986b939b107,,,FS 50 / CNW 11,,,Aakjaer Jeppe
+http://data.doremus.org/expression/d8c8646d-2eff-38af-8659-c9fbb6ce2c87,,,BWV 107,,,Heermann Johann
+http://data.doremus.org/expression/5ee1178c-0a8b-3c7d-af8f-df2cb8375ccf,,,WoO 167,,,ANONYME
+http://data.doremus.org/expression/bfb134b1-3131-3d8b-9566-ec297057036b,,,HWV 181,,,Quintus Horatius FLACCUS
+http://data.doremus.org/expression/13faba38-d13b-307b-92eb-16fb405b9fd8,,,H 247,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/e18225b8-a1f7-39c6-8fb3-ff7b6ac6e9f8,,,D 943,,,RELLSTAB
+http://data.doremus.org/expression/a6164a83-fa3b-3dd1-8225-5bb155a3e661,,,192,,,Camille SAINT SAENS
+http://data.doremus.org/expression/c781e15d-a2c2-3e69-a808-f8b608013126,,,205,,,Camille SAINT SAENS
+http://data.doremus.org/expression/24c48515-b2e4-3236-888f-c2aa0f0ed19d,,,TrV 148,,,MICHEL ANGE
+http://data.doremus.org/expression/6acbd8f9-5191-3524-9512-fab8326c4165,,,BUX WV 22,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/05b3dc62-532a-39b4-84d7-7ef3d63c7145,,,CT 145,,,Wincentego POLA
+http://data.doremus.org/expression/ae5e1b6d-794e-35fd-8d7d-2c825314d0cb,,,HWV 40,,,Niccolo MINATO
+http://data.doremus.org/expression/50b7f5a9-1fc6-3ede-be69-8178f74de5ad,,,D 788,,,zu STOLBERG GRAFEN
+http://data.doremus.org/expression/305136a5-f1c6-3826-a67a-5aafda9e83fb,,,BUX WV 21,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/5d336bca-af1d-3309-8861-875ca1340781,,,BUX WV 10,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/0a2d2c31-f74b-3d9a-a3fc-47bddd99567b,,,W 338,,,Robert MYRIEL
+http://data.doremus.org/expression/efcc647c-23ef-3ef2-a562-4ac66f52060f,,,H 81A / H 82A à H 87A,,,Théophile GAUTIER
+http://data.doremus.org/expression/aea242ae-f36e-3a55-972b-bfb2731b50c3,,,FP 130,,,TRADITIONNEL , ANONYME
+http://data.doremus.org/expression/0b30ca15-d1ff-3b23-b338-279619454290,,,HWV 22,,,Aurelio AURELI , Ortensio MAURO
+http://data.doremus.org/expression/e7c8ee2b-2496-3698-aab1-0cd0b88f09ad,,,K 539,,,Johann Wilhelm Ludwig GLEIM
+http://data.doremus.org/expression/0a2234be-6ced-3e34-b3a6-d8455135d765,,,S 313 / R 597,,,Peter CORNELIUS
+http://data.doremus.org/expression/a23cea54-908a-3a8c-99d6-1747e5f3782a,,,D 627,,,Johann Gottfried SCHREIBER
+http://data.doremus.org/expression/b821f151-efea-3dea-b0a4-06f3040fe6dd,,,ed 3899,,,Ernst Pepping
+http://data.doremus.org/expression/5fc138be-a7ff-332b-b915-e472e5dc24ba,,,Z 437,,,ANONYME
+http://data.doremus.org/expression/9f3b7a85-7475-354c-8323-233561c8ebf6,,,D 278,,,OSSIAN
+http://data.doremus.org/expression/0ba150ef-356b-3769-86f6-2b20b30c1476,,,K 111,,,Parini Giuseppe
+http://data.doremus.org/expression/bc511de8-11e7-3073-91ee-e77ef978385b,,,P 106 / F I-208 / RV 277,,,Antonio VIVALDI
+http://data.doremus.org/expression/75bb4485-b02e-39d2-a93b-39ac1bcfa3af,,,S 494 / R 173,,,Edouard LASSEN
+http://data.doremus.org/expression/13a748dc-897e-3506-a3ab-ececdc162c41,,,Z 583,,,Nathaniel LEE
+http://data.doremus.org/expression/325adcd5-de60-3ef4-a4ce-2f9c42195c6f,,,S 305/1 / R 581a,,,Franz DINGELSTEDT
+http://data.doremus.org/expression/f2f8b19d-6779-3cb1-bd5c-92280ad60cd2,,,H 9,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/a6d5c983-d9c0-3808-b39d-833d8068c725,,,Hob XXVIa:43,,,HASCHKA
+http://data.doremus.org/expression/c48b5edb-b47c-38ff-866e-7cc6cdbd9177,,,WoO 188,,,ANONYME
+http://data.doremus.org/expression/eed74cc2-0491-3013-9f16-3e31b8cd0231,,,FS 86 / CNW 111,,,Rordam Valdemar
+http://data.doremus.org/expression/2a08b1f6-b113-3821-ba55-10f75e62cbe3,,,WoO 130,,,ANONYME
+http://data.doremus.org/expression/add60f56-16f1-3813-be44-f626958cfa17,,,TrV 197,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/54d855b2-cf81-356d-bcc4-4082a0973c7b,,,SW 19,,,Othmar SCHOECK
+http://data.doremus.org/expression/9d4b96f2-932a-33ac-9489-169d25aeaf96,,,D 775,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/ff763e62-38da-32e9-89b3-8055993b4daa,,,W 296,,,Roger MILES
+http://data.doremus.org/expression/1ba8f017-3467-39a4-9e46-4610c1520c4d,,,RV 595,,,Antonio VIVALDI
+http://data.doremus.org/expression/8a21dd7c-db18-38c5-bac2-5de4dd1489a1,,,D 776,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/58516652-2519-3c81-8f46-f346f3a56b0e,,,D 890,,,Johanna SCHOPENHAUER
+http://data.doremus.org/expression/bdb0f714-3ca3-3355-b83e-3fa9daafbd4c,,,HWV 196,,,LEMENE FRANCESCO DE
+http://data.doremus.org/expression/932d30d1-4578-3fa0-a04b-f673e9932c9c,,,FP 16,,,Jean COCTEAU
+http://data.doremus.org/expression/c5f8a75c-f248-350f-90de-a06c895b60b7,,,JB 1:118, T 128,,,Bedrich SMETANA
+http://data.doremus.org/expression/3b873f42-641b-3833-803d-58754dd8ef9f,,,D 360,,,MAYRHOFER
+http://data.doremus.org/expression/a1d073eb-0d65-3b5e-9d37-e1267abc47ad,,,K 307 (284d),,,Antoine FERRAND
+http://data.doremus.org/expression/0bfee271-b24a-3a20-bbee-7f39700c085e,,,D 826,,,von MEERAU Kolumban SCHNITZER
+http://data.doremus.org/expression/b4a6d516-c762-333d-b987-3d8a5c2ee707,,,H 81B / H 82B à H 87B,,,Peter CORNELIUS , Théophile GAUTIER
+http://data.doremus.org/expression/d6b331dc-f66f-369e-ad8f-4612eee7618e,,,W 318,,,Charles FUSTER
+http://data.doremus.org/expression/92f2608f-d091-32fd-8d3f-cf49e5b5acf0,,,D 329,,,F BOBRIK
+http://data.doremus.org/expression/2a2b9e7d-d50b-37a9-80b6-ab36608c1e89,,,FP 75,,,Jean NOHAIN
+http://data.doremus.org/expression/78ff8c3b-2ae7-30bd-8f05-b46a5c606cae,,,WoO 171,,,ANONYME
+http://data.doremus.org/expression/ee0ea0cd-25d2-3e34-a746-5fea3310cacf,,,H 145,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/3e26a5ca-9f9b-3f89-aa13-e6e7428f676f,,,BWV 35,,,Georg Christian Lehms
+http://data.doremus.org/expression/eb1386e8-2e67-3a62-b727-bda74ee17853,,,193,,,Camille SAINT SAENS
+http://data.doremus.org/expression/42d6d804-7a33-3569-b778-c2ee37c3ab8e,,,H 11,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/6dd255ba-6edd-342a-b6c5-1fbe27ee7a16,,,BUX WV 109,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/4a8e4892-0e8a-3655-aaea-dda01f270495,,,H 6,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/f75bacf1-1b9e-3065-9c44-e87f906dae1e,,,D 540,,,MAYRHOFER
+http://data.doremus.org/expression/eab04400-d637-377e-b4ee-bcaecdb256e4,,,L 50 / (39),,,Théophile GAUTIER
+http://data.doremus.org/expression/76c2d628-de40-3d04-928f-eb8b34f74b8b,,,D 688,,,Pierre METASTASE
+http://data.doremus.org/expression/e308077f-fade-329c-b5aa-b25ee7e49f79,,,D 806,,,MAYRHOFER
+http://data.doremus.org/expression/71d33eb5-d32d-3775-ba45-138f094d1336,,,W 319,,,Charles FOLEY
+http://data.doremus.org/expression/8b56fd74-af42-3e98-af1a-7f4631f89b79,,,Z 193,,,William FULLER
+http://data.doremus.org/expression/b54893c1-f4e4-3412-8b1e-fb2a2b847054,,,BB 82,,,Menyhért LENGYEL
+http://data.doremus.org/expression/7cdd58d8-02bf-3fb9-84b3-043fd58b1845,,,D 75,,,F SCHAFFER
+http://data.doremus.org/expression/1059c3ae-62f3-3d74-916e-294b3e1bcb8a,,,FP 180,,,Jean COCTEAU
+http://data.doremus.org/expression/27f672c1-d366-3ba4-89b7-7944c3e61bda,,,BUX WV 20,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/70151492-ea0f-38b2-b5e8-375fe7c0a038,,,HWV 191,,,Ortensio MAURO
+http://data.doremus.org/expression/8c686361-f46e-337c-9388-d3eed37344f3,,,D 695,,,A STADLER
+http://data.doremus.org/expression/32ac4155-6775-367e-ae12-ddbe5a23a072,,,CT 143,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/96d26b37-5c89-3f7d-991f-027bcd86d1a8,,,AV 66,,,Sallet Friedrich von
+http://data.doremus.org/expression/27b5a48f-5596-363a-ba7a-682b440d1607,,,30,,,Veber Michel alias Nino
+http://data.doremus.org/expression/881494de-ef41-37b2-af2b-7f20966807f2,,,H 21,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/e01a435c-5208-36dd-a970-cb2651ecd5e2,,,BWV 108,,,Ziegler Christiane Mariane von
+http://data.doremus.org/expression/008aba05-caad-3770-a543-39d0ec71a1c0,,,BUX WV 29,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/482976e4-1d76-3aff-b61b-0d39e96f0769,,,Z 467,,,Thomas D'URFEY
+http://data.doremus.org/expression/f8d6913d-b439-30cf-8223-769aaba0bd0a,,,FP 120,,,Paul ELUARD
+http://data.doremus.org/expression/7dfdabf9-1125-3bba-b5ab-c3432d450619,,,CT 142,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/c6294da3-efbf-3f59-83f2-dd87c89f0d33,,,FS 25 / CNW 1,,,Christiansen Einar
+http://data.doremus.org/expression/63c84804-a2b6-3c79-b439-f1f1f90a811c,,,W 361,,,Baronne d' OTTENFELS
+http://data.doremus.org/expression/818c9912-f2b0-3391-be8d-7f19418bbbd0,,,WWV 50,,,Scheurlin Georg
+http://data.doremus.org/expression/4e27a8bb-9bd8-3caa-ac82-013f2c397688,,,Z 362,,,George ETHEREGE
+http://data.doremus.org/expression/663634a1-31b6-326b-a044-48033f47bd57,,,WoO 114,,,Johann Wilhelm Ludwig GLEIM
+http://data.doremus.org/expression/0cb908dd-c19e-3271-81cb-c6553f36538d,,,D 285,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/ea988da0-4218-368a-aca1-687d4e9e5bce,,,BUX WV 7,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/dd96e77d-042e-3b82-bfea-9110f18c8628,,,AV 48 / TrV 66,,,Fallersleben August Heinrich Hoffmann von
+http://data.doremus.org/expression/bef93cfb-bde9-37b1-a61f-ac01267d268f,,,W 366,,,Pierre REYNIEL
+http://data.doremus.org/expression/b0921f8b-afdb-3207-b32e-35684c284e7a,,,H 76A,,,Léon de WAILLY
+http://data.doremus.org/expression/446b82e4-b2c8-3cde-9e91-ae88169b1619,,,HWV 7a,,,Giacomo ROSSI
+http://data.doremus.org/expression/ba48730a-5b59-37d5-9a8a-6d7f5c56fbfb,,,N° 163,,,Camille SAINT SAENS
+http://data.doremus.org/expression/9da3fed3-64d9-32ea-96a6-d5280394faa2,,,Z 378,,,ANONYME
+http://data.doremus.org/expression/6cdea5b2-83aa-3757-b5b0-9ffcba532d1d,,,D 193,,,HOLTY
+http://data.doremus.org/expression/1537636f-e2b8-3128-b5ac-b96bd23cfdb6,,,H 7,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/1e80c70f-eb2d-30f3-b28a-d49a6756b874,,,W 314,,,J THENARD
+http://data.doremus.org/expression/2e971c77-1aeb-363d-8768-88892645c932,,,D 964,,,A SCHMIDL
+http://data.doremus.org/expression/88afcf81-51a0-3da2-985b-dd2205d20a6d,,,FP 142,,,FRANCOIS D'ASSISE (SAINT)
+http://data.doremus.org/expression/9106152f-01e1-39e1-a81b-d9e15371cc0b,,,BWV 175,,,Ziegler Christiane Mariane von
+http://data.doremus.org/expression/55cf107a-cb16-3851-8a1b-47e79fc4cfb6,,,S 277 / R 625,,,Elim METSCHERSKY
+http://data.doremus.org/expression/7b430837-e995-35b4-a617-a04cd268af76,,,D 832,,,Fr von SCHLEChtA
+http://data.doremus.org/expression/ac9eeb1b-3d47-3b68-b7fd-771997a3ea6f,,,D 807,,,MAYRHOFER
+http://data.doremus.org/expression/42debd25-adad-371a-b42d-faa8e196019d,,,W 324,,,Paul COLLIN
+http://data.doremus.org/expression/37d9f01b-9b90-36f7-b6de-be007c0cad31,,,W 320,,,Charles FOLEY
+http://data.doremus.org/expression/c644f935-c6fc-3ea7-84d2-b8e0c038927b,,,W 285,,,Pierre BARBIER
+http://data.doremus.org/expression/c394fac5-6fc0-3564-9053-1bc4c8f80ba7,,,Z 418,,,Charles WEBBE
+http://data.doremus.org/expression/269faec0-7b69-31ee-90fb-312712583f21,,,FS 101 / CNW 258, 259, 260, 261,,,Hostrup C. , Grundtvig Nikolai Frederik Severin , Bjornstjerne BJORNSON , Richardt Christian
+http://data.doremus.org/expression/c29fe872-0821-3400-9fc2-9ef8afebda10,,,FS 85 / CNW 110,,,Richardt Poul
+http://data.doremus.org/expression/936addc5-2cf2-3737-93a0-bd822f566487,,,JB 1:112/3 et T 113,,,Bedrich SMETANA
+http://data.doremus.org/expression/fc23a731-bb86-35a0-907e-831b088624dc,,,K 87 (74a),,,Vittorio Amedeo CIGNA-SANTI
+http://data.doremus.org/expression/af47813c-ea3b-3277-a0d3-d43fe0dba086,,,EG 157,,,Schulz W
+http://data.doremus.org/expression/4ddb937e-83ee-37d8-8011-748a8199a68d,,,FS 70 / CNW 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213,,,Laub Thomas , ANONYME
+http://data.doremus.org/expression/0d39f7ff-f849-38c1-9921-11d0e1223c82,,,W 306,,,Edouard GUINAND
+http://data.doremus.org/expression/5a604763-7bb0-36a6-b1bd-e147dbb95065,,,AV 114 / TrV 258,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/2cad0b2b-e727-39ac-a201-d222ec1eb1f0,,,P 371 / F XI/27 / RV 152,,,Antonio VIVALDI
+http://data.doremus.org/expression/6c851eac-01b6-3c93-b186-2de1620f2a79,,,FS 74 / CNW 109,,,Clausen Julius
+http://data.doremus.org/expression/57187f97-b033-35aa-b67b-4ff33f20381c,,,G 97,,,Giovanni Battista VIOTTI
+http://data.doremus.org/expression/ba0139a6-6e84-31ae-8478-ceaa746c82b9,,,FS 26 / CNW 103,,,Olrik Axel
+http://data.doremus.org/expression/d2b1e64a-5b69-30a9-af8b-1ee559cbe85a,,,H 10,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/29edf8ad-e687-35b6-ae63-6b53b7f34234,,,BUX WV 12,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/91ba8fbd-ebcb-39c8-8af9-73c66a3e3d90,,,FS 141 / CNW 113,,,Michaelis Sophus
+http://data.doremus.org/expression/a3abc5c8-d377-3687-b870-f95cfd2c9ba8,,,493,,,Heinrich SCHUTZ
+http://data.doremus.org/expression/a3fc1da5-f745-3753-8c11-140b04b36732,,,35,,,Limozin Jean, Tourrasse André de la
+http://data.doremus.org/expression/361d6099-9717-32d5-b61c-9169fc3722cd,,,H 16,,,Albert DU BOYS
+http://data.doremus.org/expression/1d1efdd4-3e5f-32a6-89be-005d514daea7,,,Z 363,,,Charles WEBBE
+http://data.doremus.org/expression/7f31d07a-7ed8-3717-b5f7-ce8436b93cce,,,RMWV 7,,,Mauersberger, Rudolf
+http://data.doremus.org/expression/9d63d0fa-199b-3ae3-b9e6-5a94c814119e,,,FS 94 / CNW 35, 230, 231, 232, 233, 234, 235, 236, 237,,,Rode Helge
+http://data.doremus.org/expression/6d84cd8c-0c2b-3e57-a687-bdcb34155ef6,,,D 651,,,J P SILBERT
+http://data.doremus.org/expression/93db6ce9-94fb-3330-9f76-f36fd973472c,,,H 242,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/1db96e65-a33d-3103-a565-cda5a7c125e0,,,S 315 / R 617,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/08e2edc3-72cd-3bd9-95cd-d4a896134d3d,,,WoO 179,,,ANONYME
+http://data.doremus.org/expression/acda6dce-7703-3223-ac2e-90c75ce71062,,,D 672,,,MAYRHOFER
+http://data.doremus.org/expression/3a275a41-6420-338c-8de3-37d858458b45,,,HWV 21,,,Ortensio MAURO
+http://data.doremus.org/expression/0815067c-c305-374d-a0e5-89c032018170,,,K 436,,,Pierre METASTASE
+http://data.doremus.org/expression/ef64c9f1-b722-3790-b01a-b67034687893,,,EG 133,,,Bjornstjerne BJORNSON
+http://data.doremus.org/expression/af7c7e0b-748b-3819-8e79-6f08860ca7e7,,,88,,,Boissy Gabriel
+http://data.doremus.org/expression/a01e11fc-4224-3236-aea0-783511f7a88e,,,H 18,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/eedc3023-0e30-345a-8d4d-a034f69261f9,,,D 650,,,J P SILBERT
+http://data.doremus.org/expression/dfb243a5-f2d3-3d6f-afc1-f264a2bebf74,,,KV 506,,,Aloys BLUMAUER
+http://data.doremus.org/expression/6147fdb4-04ea-3227-b963-e7170bfc79b2,,,W 322,,,Charles FUSTER
+http://data.doremus.org/expression/fa6ce038-0d60-356b-bc95-059c4452b412,,,W 286,,,Edouard GUINAND
+http://data.doremus.org/expression/8fb216f6-8c33-3c5d-a791-0909d2111889,,,FP 161,,,Paul ELUARD
+http://data.doremus.org/expression/f09fe241-5d3b-31ba-95f9-ed7ae92d8d7a,,,W 272,,,Edouard GUINAND
+http://data.doremus.org/expression/4d7567f6-781b-34dd-9ceb-35a9ce15ccdf,,,W 310,,,Jean RAMEAU
+http://data.doremus.org/expression/d1dbbdd0-b99a-36fb-95b9-cb060d3727c3,,,D 280,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/56362f0d-7d14-3c31-96de-5c62e22bd3bd,,,BWV 192,,,Rinckart Martin
+http://data.doremus.org/expression/4bda8fbf-0fe4-359a-8d86-e5626144ada9,,,JB 1:112/5 et T 120,,,Bedrich SMETANA
+http://data.doremus.org/expression/9fbff570-b0d6-3a6e-8526-a175478a5a2f,,,JB 1:112/1 et T 110,,,Bedrich SMETANA
+http://data.doremus.org/expression/e49c1082-8555-3a65-8a5f-9a798cbf35d2,,,D 902,,,Pierre METASTASE
+http://data.doremus.org/expression/157e927d-d402-3fad-91c4-7177cfaa2d12,,,MH 427,,,Michael HAYDN
+http://data.doremus.org/expression/bc076101-134f-366c-b4a6-0b97b0f51c37,,,P 241 / P 336 / P 257 / P 442 / RV 269 / RV 315 / RV 293 / RV 297,,,Antonio VIVALDI
+http://data.doremus.org/expression/a3d80a8c-ddf5-3179-a114-35d461340e78,,,D 235,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/886e571f-b587-3bb0-a5ce-110d7ff55ebe,,,W 359,,,René NIVERD
+http://data.doremus.org/expression/f4bc4fb5-3820-3fe7-a196-470bf98d5255,,,D 829,,,A von PRATOBEVERA
+http://data.doremus.org/expression/e08472e8-446b-362c-b14f-19642a64f5b9,,,HWV 178,,,Ortensio MAURO
+http://data.doremus.org/expression/927eb2d2-f8dd-3bee-9417-76532f745f74,,,W 373,,,Ch de BUSSY
+http://data.doremus.org/expression/7fe54f48-dbc0-396a-b8ed-778fb9fbc336,,,W 336,,,Charles FUSTER
+http://data.doremus.org/expression/f5fe1a6d-c598-3389-93df-ccbe24abda46,,,MH 335, P 127,,,Michael HAYDN
+http://data.doremus.org/expression/bd206cdf-c722-334b-a98a-76288e3716e0,,,D 654,,,MAYRHOFER
+http://data.doremus.org/expression/48259a19-dd5c-38a7-8dc5-d5ccc5ace05b,,,W 309,,,Edouard GUINAND
+http://data.doremus.org/expression/22e7c16c-e937-33eb-9dbd-1a5bd92d94b1,,,Z 353,,,ANONYME
+http://data.doremus.org/expression/752f9ed6-c2fe-3a23-aae1-5e890edc5d4f,,,UE 31 735,,,Johannes Maria Staud , Max Bense
+http://data.doremus.org/expression/6e83b1c6-ff37-3d81-a9ae-4b4663a12783,,,FS 96 / CNW 102,,,Bernsten Aage
+http://data.doremus.org/expression/6f8591a7-95cd-3553-b28b-05376920b5d3,,,BUX WV 80,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/38e85aae-a73b-370c-9f6e-89c80a809668,,,K 77 (73e),,,Pierre METASTASE
+http://data.doremus.org/expression/056f00d0-6efa-33d6-a964-e801b37f571d,,,EG 137,,,Bjornstjerne BJORNSON
+http://data.doremus.org/expression/71b9c933-e340-3837-a89d-8046d7224e97,,,NB 55,,,Camille MAUCLAIR
+http://data.doremus.org/expression/8fead84a-42c7-3990-bc65-93d9cdbbdfbf,,,P 101,,,Ottorino RESPIGHI
+http://data.doremus.org/expression/77e4a6f7-28e2-3d4e-b90c-d9cb9a932781,,,WoO 198,,,ANONYME
+http://data.doremus.org/expression/0cc0380b-6990-3822-ae4a-7e30409441c3,,,D 42,,,Pierre METASTASE
+http://data.doremus.org/expression/f1e14eb2-680e-3e89-aa94-90bb71bf6e11,,,D 116,,,MATTHISSON
+http://data.doremus.org/expression/e02ec63b-87e1-3b9c-a39d-0b8fb47b8685,,,HWV 29,,,Pierre METASTASE
+http://data.doremus.org/expression/99abd2da-54ad-3a27-a70d-0d2cbe9eafeb,,,H 282,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/458f9e77-c843-3e5b-8224-190cbdb67860,,,UE 31 600,,,Johannes Maria Staud
+http://data.doremus.org/expression/22557d00-af4c-332e-a05c-c501468528f1,,,W 378,,,Ch de BUSSY
+http://data.doremus.org/expression/d16e3d7a-5d60-3eee-ad72-92e53a7c5cc6,,,S 323 / R 615,,,Richard POHL
+http://data.doremus.org/expression/31f1f2e3-1306-3fde-adb1-5ab7f3e832f3,,,D 659,,,NOVALIS
+http://data.doremus.org/expression/a4dfebb5-0a20-3d8e-9c0d-92dec7f793f4,,,W 295,,,Hippolyte LUCAS
+http://data.doremus.org/expression/ef012403-29f1-392e-a02c-6839793785c0,,,W 350,,,Robert MYRIEL
+http://data.doremus.org/expression/76463279-0a5a-3776-807f-0e541816f1f5,,,WoO 190,,,ANONYME
+http://data.doremus.org/expression/6bd3a8b0-6c65-3f46-91a8-913404943093,,,D 815,,,Friedrich Heinrich Karl de LA MOTTE FOUQUE
+http://data.doremus.org/expression/506946d9-3524-3008-89bb-3eb816a4c5e0,,,N° 171,,,Camille SAINT SAENS
+http://data.doremus.org/expression/dcc796d7-dd9e-352d-a177-0452463c9aa5,,,H 278,,,TRADITIONNEL
+http://data.doremus.org/expression/d45405be-5a8f-35ea-a442-6e4043478520,,,61,,,Nino alias Michel Veber
+http://data.doremus.org/expression/73738b2f-3e91-30e3-ba3f-c59257adb473,,,K 438,,,Pierre METASTASE
+http://data.doremus.org/expression/943cb563-c266-3ecd-a1ea-eff6041feae1,,,TrV 196,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/f3134e95-1571-36ac-a66f-34b5369c7014,,,MH 704,,,Michael HAYDN
+http://data.doremus.org/expression/8a14b170-c47c-37e1-ab04-709645bae177,,,W 86,,,Edouard GUINAND
+http://data.doremus.org/expression/32d0ff92-dd9c-3663-9c73-b9cb599ddf2f,,,Hob XXVIII:10,,,Giambattista LORENZI
+http://data.doremus.org/expression/5656960c-f458-3e87-acd5-16e696dcd92b,,,D 774,,,Stolberg Friedrich Leopold von
+http://data.doremus.org/expression/7218a3b0-1f3e-3b21-b04c-0a8c8602e468,,,FP 99,,,Paul ELUARD
+http://data.doremus.org/expression/659f9e7e-326b-38b0-a98b-ee6e50ef56ca,,,Z 192,,,William FULLER
+http://data.doremus.org/expression/05c75b10-7e47-3202-87a7-4b2a411e5f1b,,,W 364,,,Paul GRAVOLLET
+http://data.doremus.org/expression/bf9c8174-5daa-3a16-944d-6bee4b38f1e4,,,H 32,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/06d2d31a-614b-326c-a4c1-02c5e927cae9,,,W 317,,,Charles FUSTER
+http://data.doremus.org/expression/8d6e995e-7ce7-3716-b766-df5002937292,,,KV 384,,,Christoph Friedrich von BRETZNER
+http://data.doremus.org/expression/cfa9df32-22a5-3a08-b7c9-243feec546d6,,,WoO 196,,,ANONYME
+http://data.doremus.org/expression/8a2fc566-f3b0-39b7-8362-6f8f44caf7df,,,D 778,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/2e8379d8-846b-3cbd-9ced-895578167ad4,,,BUX WV 254,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/5fd5c48b-f6e2-35d7-b2a1-893c53e35988,,,W 323,,,Robert MYRIEL
+http://data.doremus.org/expression/b10463e2-8be3-30c7-a309-6aa8d0ddf381,,,196,,,Camille SAINT SAENS
+http://data.doremus.org/expression/17efcdc4-1bf8-3699-93f7-e55e2b67800c,,,H 91,,,Germain DELAVIGNE
+http://data.doremus.org/expression/db80a655-126c-3506-b462-fa9cbfccc93f,,,TrV 272a,,,Joseph GREGOR
+http://data.doremus.org/expression/1ddb4b21-1b6b-3588-8b2e-5975a7852f7c,,,WoO 111,,,ANONYME
+http://data.doremus.org/expression/e03b00d6-d610-370f-a049-78e594d0faf2,,,FP 11,,,Jean COCTEAU
+http://data.doremus.org/expression/4f59e9df-c532-3d4e-a288-bd2e7df2efc6,,,D 443,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/f047b6d4-a4f4-3f0f-9817-f6d1cbd43adb,,,AWV 68,,,Francis JAMMES
+http://data.doremus.org/expression/bbe5f6b7-0853-32ee-b1cb-915fb1584cd4,,,D 467,,,F W GOTTER
+http://data.doremus.org/expression/d2c96005-5060-397d-b2aa-025dc94876b3,,,MH 588,,,Michael HAYDN
+http://data.doremus.org/expression/f38e51fa-3b4c-3ffc-a012-9692cc02233e,,,W 363,,,Amélie de WAILLY
+http://data.doremus.org/expression/ac08597c-e437-3e7b-93a3-18110937f2a2,,,D 552,,,Frederic KIND
+http://data.doremus.org/expression/ed562f1b-5cc0-39fe-83db-6a256b030b8b,,,FS 93 / CNW 308,,,Lorenzen Hansigne
+http://data.doremus.org/expression/d99d5f86-97cb-381d-9e8b-13bf15fe0b90,,,D 660,,,NOVALIS
+http://data.doremus.org/expression/578741a9-8288-308a-b65e-463d5aa1596b,,,AV 94,,,Greif Martin
+http://data.doremus.org/expression/47b9932f-d8ee-3a55-94d8-5c522d0d99aa,,,BWV 1083/243a,,,Jean-Baptiste Pergolèse
+http://data.doremus.org/expression/6888086d-8a71-38f3-ae90-43e99f329b97,,,MH 338, P 130,,,Michael HAYDN
+http://data.doremus.org/expression/c1e952ec-faef-3323-9000-6dfdd96ede63,,,D.16074,,,Leitner Ernst Ludwig
+http://data.doremus.org/expression/96f70217-37af-3b19-8699-03fdc8891bb7,,,G 7180 B,,,Pascal ZAVARO
+http://data.doremus.org/expression/80ab9848-2471-38f2-8454-e65705e8098a,,,EG 149,,,Bjornstjerne BJORNSON
+http://data.doremus.org/expression/18441f43-8ddb-3d32-9dbf-d322135b6a9f,,,W 357,,,Paul MARIETON
+http://data.doremus.org/expression/83f3eab4-89d6-3df6-8210-926cb95f3e29,,,EG 139,,,Fredrik Gjertsen
+http://data.doremus.org/expression/58af2780-81e8-36f4-b922-b3cb212c19d3,,,WoO 5,,,Nicolas BECKER
+http://data.doremus.org/expression/a0f0b54e-5495-34af-b5bf-0ec4b509d33a,,,RV 439, F VI/13,,,Antonio VIVALDI
+http://data.doremus.org/expression/231fe32d-ff22-3343-9a32-75ba9ccb7627,,,FS 89 / CNW 227, 228, 229,,,Oehlenschlagers Adam
+http://data.doremus.org/expression/ec61f62c-18c1-3cb9-8e40-de993259d34b,,,S 314 / R 590,,,Oscar von REDWITZ
+http://data.doremus.org/expression/71594055-ad5d-3cdc-9ae7-3d02afee279d,,,SW 13,,,Othmar SCHOECK , Rüeger Armin
+http://data.doremus.org/expression/41bf32b2-3e1f-315f-91d5-b16c2657b4ea,,,D 318,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/f6a9691f-a90c-3b82-82f5-678cf5b1dffe,,,H 112,,,Alphonse de LAMARTINE
+http://data.doremus.org/expression/6ff8d373-d5b2-3c5b-9588-aee4e514ea44,,,CT 141,,,Bohdana ZALESKIEGO
+http://data.doremus.org/expression/700654fc-260e-3af3-b20a-a51bfc812ec8,,,L 80 / (72),,,Catulle MENDES
+http://data.doremus.org/expression/2da71178-d2af-3cce-8a42-003ab8362dc0,,,17,,,Charles VILDRAC
+http://data.doremus.org/expression/695d1347-2784-31eb-a847-fc377eb27a09,,,D 517,,,Friedrich Heinrich Karl de LA MOTTE FOUQUE
+http://data.doremus.org/expression/1398e8d2-0b3e-373e-8c7e-e20143ed8ab1,,,BWV 16,,,Georg Christian Lehms
+http://data.doremus.org/expression/77e64c02-01e5-382a-96d1-263fd3ebcea6,,,D 534,,,OSSIAN
+http://data.doremus.org/expression/cca91c8a-d17f-3ba6-bc6c-637ad396fb84,,,W 264,,,Georges VAN ORMELINGEN
+http://data.doremus.org/expression/2bfaf5fe-6544-3992-bc50-5ca2ee2e71a5,,,D 315,,,KOSEGARTEN
+http://data.doremus.org/expression/84d5c25f-d10a-3794-83d6-88416757bce2,,,CT 129,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/692969d5-62e9-3b4c-83fc-38a213b00b18,,,W 302,,,Pierre de RONSARD
+http://data.doremus.org/expression/67ebd45f-a026-3dbc-849f-3f1db880a104,,,SV 111,,,Scipione AGNELLI
+http://data.doremus.org/expression/ed0ea8fb-81be-3c49-a294-062670d9fef0,,,HWV 197,,,Ortensio MAURO
+http://data.doremus.org/expression/0d0eaedf-c505-301a-accd-304f352f3495,,,FP 126,,,Paul ELUARD
+http://data.doremus.org/expression/1072a43c-e411-3f8f-9f29-8102cbb622ee,,,D 731,,,Graf MAYLATH
+http://data.doremus.org/expression/05c4c910-081b-3990-b742-999076acefa2,,,D 857,,,SCHUTZ
+http://data.doremus.org/expression/334cd8ed-4fa6-327c-8b09-a6ecce040776,,,WoO 105,,,Anton Joseph STEIN
+http://data.doremus.org/expression/a186f5f3-1632-3350-9831-06a692a48e3c,,,CT 135,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/af46ecba-2f4a-3599-9d5e-ac59999f4e6c,,,H 333,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/05feb1a6-4a7c-32bc-8dbe-eec329cbecc7,,,MH 534,,,Michael HAYDN
+http://data.doremus.org/expression/4cd80bf0-a889-3238-9d54-7520e23408d4,,,S 484 / R 149,,,Ferdinand DAVID
+http://data.doremus.org/expression/3fece441-3228-3f57-8e27-5fc13259a11f,,,H 193,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/76c9010b-4cf2-3891-b4f0-ba78f553ecab,,,Z 571,,,D'URFEY
+http://data.doremus.org/expression/f43b6bbd-136e-300c-9e94-16d02040d9a9,,,W 299,,,Edouard GUINAND
+http://data.doremus.org/expression/37a95eb8-8252-3429-9177-98702e6d8a08,,,D 276,,,Leopold GRAFEN
+http://data.doremus.org/expression/3cbe33c8-05ef-3f28-a491-100d6106c706,,,EG 124,,,Feddersen Benjamin
+http://data.doremus.org/expression/ce57f921-b399-3fc6-a9b8-4e4388190d48,,,HWV 34,,,ANONYME
+http://data.doremus.org/expression/5c0aea91-13db-3ad8-bea6-9d7aeeea8c9d,,,FP 42,,,ANONYME
+http://data.doremus.org/expression/3adae959-5612-3f37-8897-d93f92d653d3,,,D 698,,,SCHLEChtA
+http://data.doremus.org/expression/e89245c5-75a4-3224-8d41-25d092ef6fd3,,,Z 463,,,Thomas D'URFEY
+http://data.doremus.org/expression/4556dc72-030b-3509-bcfa-54a356af4e8d,,,W 372,,,Pierre REYNIEL
+http://data.doremus.org/expression/08945a83-d8fc-3413-b444-4c25f3f571a7,,,SW 23,,,Othmar SCHOECK
+http://data.doremus.org/expression/5dcb17df-001d-3200-9394-c85e83a5be09,,,H 7,,,ANONYME
+http://data.doremus.org/expression/37e53211-3eee-33d8-861c-44c131b591c7,,,BWV 198,,,Johann Christoph Gottsched
+http://data.doremus.org/expression/dc89daf9-1737-3dc2-847e-5fb7249717b3,,,D 736,,,Karl August ENGELHARDT
+http://data.doremus.org/expression/517b88d9-80bf-3445-b1fc-48ae9f9593c5,,,MH 307,,,Michael HAYDN
+http://data.doremus.org/expression/f86bb8c9-704e-36f8-8f0a-ee5c7628813b,,,FS 49 / CNW 106,,,Nielsen L.C.
+http://data.doremus.org/expression/db2156ca-d65b-3e13-a4ba-4fb1cf742ab6,,,H 21A,,,Humbert FERRAND
+http://data.doremus.org/expression/0c194dd3-e0b7-3cd7-89e3-65fdbb919198,,,D 805,,,MAYRHOFER
+http://data.doremus.org/expression/07ad4bdc-6119-36e9-8d70-3ca3a4c9eb41,,,H 279,,,Jiri MUCHA
+http://data.doremus.org/expression/0ef9432b-8867-30c2-8e15-2ce116bdaaf8,,,H 354,,,Miloslav BURES
+http://data.doremus.org/expression/d964f7c1-b738-375d-9cbb-2fbbce7ba52f,,,H 32,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/722cb4cd-6b6a-3072-8862-39b11fc58bef,,,K 619,,,Franz Heinrich ZIEGENHAGEN
+http://data.doremus.org/expression/22769f4e-1226-38d4-9796-d0034528c79e,,,JB 1:112/6 et T 121,,,Bedrich SMETANA
+http://data.doremus.org/expression/d6287624-b363-366e-a84f-403830dd63f1,,,W 282,,,Rosemonde GERARD
+http://data.doremus.org/expression/152544b9-fa1a-3b7d-9cd2-720456d8a69a,,,WoO 109,,,ANONYME
+http://data.doremus.org/expression/596f2ce7-6b35-3c49-95ba-14a4721d30e4,,,D 76,,,Pierre METASTASE
+http://data.doremus.org/expression/30f797bd-dd9d-38da-b481-11441fb95b8c,,,BWV 72,,,Franck Salomo
+http://data.doremus.org/expression/22f8670d-4b85-30bc-bf65-1e335bbf75d4,,,D 282,,,OSSIAN
+http://data.doremus.org/expression/1602f51c-a7ef-30c6-a42f-d0c29763a4f8,,,D 290,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/5ea3d3b5-8cf2-3995-819f-7a4d1ff00581,,,H 36,,,Pierre-Ange Vieillard de Boismartin
+http://data.doremus.org/expression/81c06b30-913f-3464-b143-cfbe0c5f0c26,,,K 483,,,von SCHITTLERSBERG Augustin Veith EDLER
+http://data.doremus.org/expression/d29e4ab9-f120-3dca-a8c4-4379575db1ae,,,WoO 123,,,Karl Friedrich HERROSEE
+http://data.doremus.org/expression/3ba9601c-f947-3a15-9e1c-a57d594268e4,,,S 329 / R 622,,,Rüdiger von BIEGELEBEN
+http://data.doremus.org/expression/5fc99b1f-5f43-330b-a899-ce695019d577,,,BWV 189 / Anh II 23,,,Hoffmann Georg Melchior
+http://data.doremus.org/expression/ed3b2e75-f361-36b8-bb82-c98821c94cf8,,,H 297,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/709c3a83-2697-3da2-9e28-0787cc558f26,,,D 548,,,MAYRHOFER
+http://data.doremus.org/expression/52689fd4-39fd-3a83-a9cb-3569ba55b9ac,,,D 515,,,Ludwig von SZECHENYI
+http://data.doremus.org/expression/34fcec88-8202-3b3b-b82a-e1638540ca8d,,,MH 675,,,Michael HAYDN
+http://data.doremus.org/expression/f04b961a-6314-346f-8c6d-809416cb427b,,,H 83,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/bb1e4cb8-05e0-3b75-a262-0740f16fc4f0,,,S 336 / R 632,,,Michell G.
+http://data.doremus.org/expression/3f0d2b77-735e-3ef1-acaf-ca5d73c05f63,,,S 302 / S 583,,,Hélène d' ORLEANS
+http://data.doremus.org/expression/4933a427-d1d6-3ee1-8805-5b1033085aa0,,,S 322 / R 614,,,Peter CORNELIUS
+http://data.doremus.org/expression/78fe4306-31f8-3776-8cbf-f4d11f528bdb,,,W 287,,,Edouard GUINAND
+http://data.doremus.org/expression/b7821b97-cd5c-3e49-8fe7-d5d14f4ddfea,,,AV 41,,,Fallersleben August Heinrich Hoffmann von
+http://data.doremus.org/expression/fcd95443-ce54-3cb6-8bc7-67ac5ac9618c,,,WoO 189,,,ANONYME
+http://data.doremus.org/expression/e73297d5-f05a-3319-9236-25c218f2f4c1,,,D 688,,,J A VITORELLI
+http://data.doremus.org/expression/9fa490de-3f93-3654-8f95-bdc5dd73508b,,,M 83,,,Lucien PATE
+http://data.doremus.org/expression/a6f97ad8-7c67-3b7c-aa04-c035cf12c4c1,,,S 291 / R 577,,,Philipp KAUFMANN
+http://data.doremus.org/expression/4b42718f-6536-30f6-9bed-01b26efe9ed4,,,Z 421,,,ANONYME
+http://data.doremus.org/expression/1e746dbd-c216-31cb-9b58-0ef4e14f0be5,,,L 44 / (14),,,Théophile GAUTIER
+http://data.doremus.org/expression/29e00fbe-b592-3e95-8e7d-b3845d01bca2,,,D 527,,,MAYRHOFER
+http://data.doremus.org/expression/33c4ff94-f6f7-3d5d-8533-9102c3f4eb08,,,H 83,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/5f6b7861-c4cf-3006-bf6e-dfcf0a839668,,,FS 103 / CNW 361,,,Grundtvig N.F.S.
+http://data.doremus.org/expression/01162ff0-0609-36d0-8c64-28ed74c5b665,,,WoO 183,,,ANONYME
+http://data.doremus.org/expression/bb9f3983-02d1-36de-a133-5ea4985a0c3c,,,D 237,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/61901789-b031-3d5b-8cf6-1372d57ce39b,,,D 150,,,OSSIAN
+http://data.doremus.org/expression/6ab8a436-f4eb-3b57-bc27-709fb0ed913b,,,D 687,,,NOVALIS
+http://data.doremus.org/expression/67bea8ae-15b1-3296-8f13-9475e7973021,,,SWV Anh 7,,,Heinrich SCHUTZ
+http://data.doremus.org/expression/766ddb0c-9d3e-3825-b165-04d47cd3211a,,,RV 714,,,Antonio VIVALDI , Scipione Maffei
+http://data.doremus.org/expression/d1f161b1-89c9-314c-a6f9-0f91120d132a,,,M 80,,,Eugène DAVID
+http://data.doremus.org/expression/7ac7812f-f5c4-3ae2-8d70-78f3596952b9,,,Z 380,,,ANONYME
+http://data.doremus.org/expression/fce7bb87-948a-3de1-964e-79a167dc8e6e,,,3,,,Catulle MENDES
+http://data.doremus.org/expression/5d429454-2d32-3f9e-8c3c-8ba2700f12d5,,,WoO 128,,,ANONYME
+http://data.doremus.org/expression/3b5a6c06-560e-31fd-9088-42af5ee03452,,,HWV 58,,,William CONGREVE
+http://data.doremus.org/expression/641449ab-ac69-3fa6-b984-39a0b36bab4a,,,W 305,,,Edouard GUINAND
+http://data.doremus.org/expression/9354934f-2b94-3d12-ba7e-3622e0303f8a,,,D 376,,,OSSIAN
+http://data.doremus.org/expression/57bedee7-acd4-303d-bfe4-9afa3818b634,,,WoO 101,,,ANONYME
+http://data.doremus.org/expression/eae172c6-26e6-334b-9f6b-9d97bdc26538,,,EG 145,,,Didrik Gronvold
+http://data.doremus.org/expression/35568656-dc34-3af5-861f-0ed9f344111d,,,HWV 12b,,,Niccolo Francesco HAYM
+http://data.doremus.org/expression/32adfb0b-0103-3660-9bba-185526343faa,,,27391 H.L.,,,Jean Marc SINGIER
+http://data.doremus.org/expression/473c4b65-0fb9-3bce-b691-68d3023afb2f,,,HWV 17,,,Giacomo Francesco Bussani
+http://data.doremus.org/expression/2f75a8dd-5ce2-3eac-b0e8-3fb2d5f8314f,,,P 240, RV 265,,,Antonio VIVALDI
+http://data.doremus.org/expression/89af60ca-b07b-381b-a8f9-55d0a1f76246,,,H 255,,,André WURMSER
+http://data.doremus.org/expression/d063b836-2f5a-3af3-9f1a-65eb7fc4f15a,,,WoO 186,,,ANONYME
+http://data.doremus.org/expression/65f45b9a-052b-3d94-b006-bf417761a36e,,,TrV 182,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/3df27249-af26-3b27-9c91-e26cd5f2d676,,,D 412,,,F L GRAFEN
+http://data.doremus.org/expression/4efbe192-06ba-3547-bfd4-f6fb7553d333,,,D 688,,,Pierre METASTASE
+http://data.doremus.org/expression/ed61bdad-456c-3b9a-8993-207788775cfd,,,WoO 122,,,FRIEDELBERG
+http://data.doremus.org/expression/cee2f5d5-a5d1-3493-acdc-22cfa395927d,,,FP 137,,,Paul ELUARD
+http://data.doremus.org/expression/0a893d9e-bd2e-30b8-8087-557aaa2d12e8,,,H 315,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/a304c887-9e97-31d0-bf4f-8f269512a4ab,,,H 2 et H 234,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/72d301f7-547d-3b5c-aecb-026e0f5e159a,,,BWV 170,,,Georg Christian Lehms
+http://data.doremus.org/expression/e94ce10a-3f03-3cd7-8987-926b03ee771e,,,TrV 173,,,Busse Carl
+http://data.doremus.org/expression/70682cab-7dad-3665-a63c-933ff5d5ef7e,,,D 227,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/4ba180f1-b8a8-3a7d-a1f6-bbf8d613c3f7,,,Ms 72,,,Niccolo PAGANINI
+http://data.doremus.org/expression/07659b01-1a2c-3234-9a6f-dd8964d1102f,,,W 313,,,Eugène MANUEL
+http://data.doremus.org/expression/048556fd-4a80-32af-8236-1defb3b77282,,,W 330,,,Charles FUSTER
+http://data.doremus.org/expression/70eca14a-1aa0-3383-a899-1d0864e5df1a,,,D 444,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/39cabf43-2289-3e2d-bbf0-d250f0598a70,,,TrV 187,,,Lindner Anton
+http://data.doremus.org/expression/acf63fad-cf66-3b79-9c6e-d040d5031891,,,TrV 199,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/e43794e1-00ca-30ec-898c-4dd8ec12daf5,,,W 303,,,Edouard GUINAND
+http://data.doremus.org/expression/740561cc-ba1c-365d-a04b-eb8850eaf17d,,,FP 81,,,Legrand Jean , Paul ELUARD
+http://data.doremus.org/expression/8848c448-b24e-30de-96ee-b1420e39b694,,,MH 685,,,Michael HAYDN
+http://data.doremus.org/expression/210853cb-b24b-33d8-92a3-a8a5a6af7b6c,,,D 23,,,ROCHLITZ
+http://data.doremus.org/expression/b11bd19b-16c3-39bb-88b4-084f04838761,,,D 949,,,SCHLEChtA
+http://data.doremus.org/expression/9d721ffa-b8f6-3209-a7c1-8bb41c32c053,,,W 280,,,Louis GUAYS
+http://data.doremus.org/expression/5448b75b-c3a6-3047-9228-a37b029ac6cc,,,WoO 167,,,ANONYME
+http://data.doremus.org/expression/32f11c0e-d53b-3f90-ba29-3928b2eeca9a,,,K 596,,,C A OVERBECK
+http://data.doremus.org/expression/142ee771-080a-3b2f-80ee-eb5a92cc6831,,,W 315,,,Armand LAFRIQUE
+http://data.doremus.org/expression/facff05f-d88e-3517-9d98-c218f9d0d44a,,,S 326 / R 623,,,Thérèse von HOHENLOHE
+http://data.doremus.org/expression/b4ed321b-ba42-3c87-82fd-564d83cb84ed,,,M 85,,,L de FOURCAUD
+http://data.doremus.org/expression/79a10eb1-cb65-3a96-b532-821085b48b28,,,H 375,,,Bures Miloslav
+http://data.doremus.org/expression/2b7bfb86-a734-38cd-ba6b-23e97d9eae7b,,,Z 605,,,T. SCOTT
+http://data.doremus.org/expression/d3972704-8067-390d-8d06-e7b3a5da9a34,,,W 346,,,Robert MYRIEL
+http://data.doremus.org/expression/da87dd60-0223-3783-a57b-cf7a2f66e756,,,BUX WV 52,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/5411d358-ab23-3dbf-9cdd-0e631c4d2d18,,,D 551,,,SCHOBER
+http://data.doremus.org/expression/ee4e2e22-9b7d-37ef-8a95-2afd6236a2c7,,,K 78 (73b),,,Pierre METASTASE
+http://data.doremus.org/expression/77803309-2265-374c-a4eb-233beef91fe7,,,Z 361,,,ANONYME
+http://data.doremus.org/expression/ee52adf1-b5f1-3520-825c-ef36bffc6703,,,D 753,,,MAYRHOFER
+http://data.doremus.org/expression/470e162c-4496-390a-807d-055986a671a0,,,J 73,,,Löwenstein-Wertheim Wilhelm von
+http://data.doremus.org/expression/4cccfdb8-1eb0-3570-9eae-067fc42b7744,,,TrV 230,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/ab6e24be-0a2c-30d2-8f56-05cdb0383265,,,WoO 142,,,F R HERMANN
+http://data.doremus.org/expression/f8130f15-8864-30cb-9d46-2f09a6afeb8c,,,EG 122,,,Grundtvig N F S
+http://data.doremus.org/expression/0ada9825-8571-3b86-9098-6f7e25c1e86e,,,D 990,,,J.F. CASTELLI
+http://data.doremus.org/expression/d0bad1f9-d2dd-30dc-a50c-2b523bf29c92,,,BWV 103,,,Ziegler Christiane Mariane von
+http://data.doremus.org/expression/1f14c4bc-2eae-34ef-a807-61541bca98f0,,,J 235,,,ANONYME
+http://data.doremus.org/expression/657fddf8-0eb0-3fee-aaa4-5ac6cfa2cd38,,,SWV 26,,,Heinrich SCHUTZ
+http://data.doremus.org/expression/5e26e03e-606b-3b81-86a8-508d942917c0,,,RV 594,,,Antonio VIVALDI
+http://data.doremus.org/expression/e9a2c5a4-33b5-3366-b333-e5df60fba197,,,D 219,,,KOSEGARTEN
+http://data.doremus.org/expression/a87d8d61-455a-319c-85c4-59acc95f1dfb,,,D 211,,,BERTRAND
+http://data.doremus.org/expression/dd4c9eb7-1860-39b9-9153-0fedb3656e68,,,WoO 108,,,Johann von DOHRING
+http://data.doremus.org/expression/05acacc9-6841-3dd3-a90a-eedbd9793d30,,,BUX WV 51,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/24b30944-12c3-3d06-852a-a9f5889f2c01,,,W 292,,,Thérèse MAQUET
+http://data.doremus.org/expression/738bfe10-1546-3bf0-b3b2-dfd92bda7966,,,BUX WV 43,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/bcbe039c-a5c0-3617-9c99-d5737a049335,,,L 61 / (57),,,Edouard GUINAND
+http://data.doremus.org/expression/cb355002-45f0-325e-a15c-ae17ab687776,,,AWV 68, JA 58,,,Francis JAMMES
+http://data.doremus.org/expression/399ea34c-c1e4-35d3-ab90-e845e1035dfa,,,D 526,,,MAYRHOFER
+http://data.doremus.org/expression/b1f15ba2-53f5-3acf-92e4-ba5541ec7845,,,D 229,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/a150cdf3-9ef0-3c37-8dfe-9a304bf396b3,,,WoO 150,,,H GOEBLE
+http://data.doremus.org/expression/c8cb7900-e913-3e35-a446-0126e78c0b73,,,K 308 (295b),,,Antoine HOUDART DE LA MOTTE
+http://data.doremus.org/expression/060d4bb3-7010-3445-b6de-e916197cf923,,,HWV 6,,,Vincenzo GRIMANI
+http://data.doremus.org/expression/1538d7bd-f2f4-3cd9-916b-42cba61ebee3,,,H 73,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/6a450bcc-9f55-3a8a-8151-a13c4b1f686d,,,T 23, 25,,,Piotr Ilyitch TCHAIKOVSKI
+http://data.doremus.org/expression/c06e8c43-2d3d-35e6-806f-b597cd3bd566,,,SWV 36,,,Heinrich SCHUTZ
+http://data.doremus.org/expression/6ab9cd7d-f7e5-373b-86b4-ff472410b2aa,,,D 102,,,MATTHISSON
+http://data.doremus.org/expression/6668248b-af63-3b64-9fee-9ab0eafb6ffe,,,L 88 / (76),,,Grégoire LE ROY
+http://data.doremus.org/expression/becbdc5f-8fed-3dd5-b258-2c01567924a5,,,WoO 170,,,ANONYME
+http://data.doremus.org/expression/827fc789-b794-3799-bace-2cc310c2353f,,,MH 548,,,Michael HAYDN
+http://data.doremus.org/expression/0f8172f4-377d-3055-ac1f-fefb86873a21,,,AV 14,,,Fallersleben Hoffmann von
+http://data.doremus.org/expression/760e8852-45ed-30bc-96d2-bf4f0cdd8bd3,,,FS 153 / CNW 114,,,Pedersen Hans Hartvig Seedorff
+http://data.doremus.org/expression/e162f7f0-3bb2-3a84-8835-30543b076d9c,,,Z 379A,,,Henry HEVENINGHAM
+http://data.doremus.org/expression/bdbf228e-875c-3451-bf4f-1950557ec42c,,,W 341,,,Camille ROY
+http://data.doremus.org/expression/526b5c7a-a2a3-3e7b-aeae-3f30990abeb1,,,D 847,,,F GRAFFER
+http://data.doremus.org/expression/2e0f256a-4849-306a-9411-c73fb447ee22,,,BUX WV 53,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/3f7f0c25-629c-3b9f-b907-872e2515cb32,,,D 95,,,MATTHISSON
+http://data.doremus.org/expression/a3152902-40be-300d-9a48-c33497b71263,,,HWV 35,,,Belisario VALERIANI
+http://data.doremus.org/expression/e7cc2734-2118-3762-8989-1c98b1152569,,,WoO 176,,,ANONYME
+http://data.doremus.org/expression/b59276c1-3d1b-3c9f-b6b5-54f515e6deb8,,,Z 504,,,Henry PARKER
+http://data.doremus.org/expression/21dacd1e-7d26-3625-ab87-ea83b94df006,,,L 135 / (127),,,Stéphane MALLARME
+http://data.doremus.org/expression/f2e15471-559c-30f8-a163-dc980fdb81f9,,,MH 305,,,Michael HAYDN
+http://data.doremus.org/expression/b3665033-27eb-3ef8-ab4a-25fd3c15012c,,,D 148,,,J F CASTELLI
+http://data.doremus.org/expression/209fede8-dd15-348a-af04-c3210874a7e1,,,D 644,,,Georg von HOFMANN
+http://data.doremus.org/expression/39f5536b-8ed0-3293-b033-888b3b9df576,,,D 221,,,KOSEGARTEN
+http://data.doremus.org/expression/92a38502-1e64-3cc9-a9ed-708c2a47fd6e,,,S 334 / R 631,,,Adolf WILBRANDT
+http://data.doremus.org/expression/56146f11-88f0-36d8-8eac-57a66ae76015,,,Hob XXVIII:11,,,Nunziato PORTA
+http://data.doremus.org/expression/c4a09832-47f6-3f75-9c94-eac9cdeb9a50,,,W 293,,,Rosemonde GERARD
+http://data.doremus.org/expression/0a9d2567-211b-3953-9b35-14876b2f642b,,,Wq 240, H 777,,,Rammler Karl Wilhelm
+http://data.doremus.org/expression/362028f3-7410-396b-8176-d650c09df149,,,EG 131,,,Bruun C
+http://data.doremus.org/expression/4bc2c0e7-4fad-388c-9129-9db7a850fd2b,,,D 758,,,SCHOBER
+http://data.doremus.org/expression/99b1e41d-65d1-3216-a54f-e17be2879486,,,D 361,,,SCHOBER
+http://data.doremus.org/expression/b63a0c98-6793-36f9-96b8-2f7aab0e9eb4,,,D 93 n° 3,,,Friedrich Heinrich Karl de LA MOTTE FOUQUE
+http://data.doremus.org/expression/5a403b7b-2699-3e8d-b1f6-cb3a9d5d9a95,,,MH 337, P 129,,,Michael HAYDN
+http://data.doremus.org/expression/eeb74c5a-3a3d-3724-aa18-75072cb184cb,,,Z 379C,,,Henry HEVENINGHAM
+http://data.doremus.org/expression/5edce067-7006-322d-9c97-c7824b59ecfa,,,FP 38,,,Pierre de RONSARD
+http://data.doremus.org/expression/f689dd0d-93df-31b3-956a-bf7740ee6001,,,WoO 197,,,ANONYME
+http://data.doremus.org/expression/047a78b4-7b6b-34d9-843f-42ef124163e6,,,FS 139 / CNW 345, 346, 347,,,ANONYME
+http://data.doremus.org/expression/127e9f0b-c44f-390b-bbd7-2e50b06d2058,,,BUX WV 13,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/f8bdd01a-d1f2-37c6-aa4b-2f15be79dc62,,,D 669,,,MAYRHOFER
+http://data.doremus.org/expression/f7e322a7-7394-3034-8325-2b4ba0df9fac,,,29,,,Victor SEGALEN
+http://data.doremus.org/expression/fa6f8508-3076-3654-a442-88ee20c2997c,,,BUX WV 79,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/ec4b166e-9e72-325c-8c22-f5b6c81b968b,,,H 146,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/8cbf898d-97f5-3400-b1f9-02a3b4038700,,,F.I n°176,,,Antonio VIVALDI
+http://data.doremus.org/expression/7698610b-3c7a-3f41-8fdc-612f3fb0a045,,,BWV 250, 251 et 252,,,Schütz Johann Jakob , Rinckart Martin
+http://data.doremus.org/expression/5bdbece7-e398-3f18-8661-e9aa8f8fed78,,,WoO 177,,,ANONYME
+http://data.doremus.org/expression/730bc001-bc6c-3e37-87cd-66adf338c47e,,,BWV 74,,,Ziegler Marianne von
+http://data.doremus.org/expression/5ab5a0b6-495f-3f30-9e48-cc463789006d,,,D 171,,,KORNER
+http://data.doremus.org/expression/36ffea87-ef79-39da-a4ab-3e979b8dd966,,,Hob XXVIII:9,,,Pierre METASTASE
+http://data.doremus.org/expression/98637bfa-42f2-3e03-90eb-fcd111594b95,,,H 370,,,Georges NEVEUX
+http://data.doremus.org/expression/6c303d41-9c68-3d4e-a7de-ca93cc426f77,,,D 586,,,MAYRHOFER
+http://data.doremus.org/expression/2afd6541-d258-34d5-9bae-fc4a0279fed3,,,D 525,,,MAYRHOFER
+http://data.doremus.org/expression/be53af72-4353-3262-855f-6a9b2d0d6fcb,,,D 233,,,KOSEGARTEN
+http://data.doremus.org/expression/095fe12f-69c3-33c6-ba4d-ef50fa5fb43c,,,EG 136,,,Johan Bogh
+http://data.doremus.org/expression/90027a64-b1d1-33a4-b001-927bd8b1fe40,,,K 391 (340b),,,J T HERMES
+http://data.doremus.org/expression/6f46d7ee-2975-3b8c-be9a-f9f6eade1a3d,,,BUX WV 101,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/7ba4c604-26dd-3528-ab2b-acd756298586,,,W 325,,,H JACQUET
+http://data.doremus.org/expression/221bec4c-c8ad-3aa2-9866-3c22c3f2d986,,,W 377,,,Ch de BUSSY
+http://data.doremus.org/expression/b74d9aa4-b966-3601-a091-0edf1ff576e4,,,BUX WV 54,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/8349e453-cd66-3906-9327-0424b80969d8,,,Z 429,,,ANONYME
+http://data.doremus.org/expression/786cb7f1-f9a0-3dba-8799-5b543e07528e,,,H 243,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/c1483bb8-4f73-3c81-8b92-67659913cddc,,,TrV 237,,,Achim Von ARNIM
+http://data.doremus.org/expression/3baf8e81-5fef-33ad-9285-f83a497e9eb7,,,Hob XXVa,,,Carlo Francesco BADINI
+http://data.doremus.org/expression/96ab02da-c978-33f7-be16-eb17aa6dc98a,,,D 707 b,,,MAYRHOFER
+http://data.doremus.org/expression/c099dc69-5af5-3658-82db-06068385ea4e,,,W 391,,,MERCEY
+http://data.doremus.org/expression/bc35a7fd-8793-359c-bb5a-2e433f79de70,,,BWV 54,,,Georg Christian Lehms
+http://data.doremus.org/expression/d451d566-7db0-39e5-9d91-ca89a7d94c2e,,,S 19 / R 508,,,Alphonse de LAMARTINE
+http://data.doremus.org/expression/4f6e71f4-0ee4-3451-80a4-413eec3522a2,,,D 455,,,F von KOPKEN
+http://data.doremus.org/expression/b45236b4-32f4-318c-b448-dc0456fff4f4,,,N° 126,,,Camille SAINT SAENS
+http://data.doremus.org/expression/8c574b60-b80e-3b6d-93c2-0ebd16872ec4,,,HWV 198,,,Ortensio MAURO
+http://data.doremus.org/expression/2eb9e589-c824-3a7b-9784-64962f587018,,,D 688,,,J A VITORELLI
+http://data.doremus.org/expression/4c629665-c143-3c47-b7f7-774cac7226c9,,,D 450,,,MAYRHOFER
+http://data.doremus.org/expression/c575c2ce-919f-39cf-843b-ec65683dc35d,,,L 102 / (96),,,Pierre LOUYS
+http://data.doremus.org/expression/a6c9d54c-4001-3054-9a9c-391536d185ad,,,W 332,,,Charles FUSTER
+http://data.doremus.org/expression/3b1dbddd-bc66-377b-8349-a2e4c8f844d1,,,BUX WV 112,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/dbf36949-44e7-3534-9e89-6efeaa21a71c,,,BUX WV 76,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/a1b35ad0-df0e-3559-a24c-73c12148e61c,,,W 312,,,E CHABROL
+http://data.doremus.org/expression/49fa8cc4-9165-3a41-9a56-4b9545382ffd,,,BWV 47,,,Helbig Johann Friedrich
+http://data.doremus.org/expression/1bc10fca-f638-3179-b902-7d3d30ae7ebe,,,HWV 28,,,Pierre METASTASE , Samuel HUMPHREYS
+http://data.doremus.org/expression/35cff806-a77d-39e4-a261-c0117c920b18,,,BUX WV 17,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/7d2eff72-991b-34da-864d-2fb8862f645f,,,BWV 68,,,Ziegler Christiane Mariane von
+http://data.doremus.org/expression/fb519d7b-3890-3dbb-8c38-62b44738f03b,,,K 597,,,C C STURM
+http://data.doremus.org/expression/3cad013a-a123-3cb4-8db4-5722be2d0453,,,FS 89 / CNW 17,,,Adam OEHLENSCHLÄGER
+http://data.doremus.org/expression/55ecc324-1dce-30dd-8928-dc5ecfc5b81f,,,L 27 / (49),,,Charles Marie LECONTE DE LISLE
+http://data.doremus.org/expression/ca774049-fb9b-39f9-affc-4748e98396d4,,,D 573,,,MAYRHOFER
+http://data.doremus.org/expression/9df10eb3-ef81-325c-9d57-d9dfb9aa1b6f,,,TrV 195,,,Christian MORGENSTERN
+http://data.doremus.org/expression/b57f5f8d-0478-3e08-82c7-0ebd97bc6bd4,,,WoO 132,,,S von BREUNING
+http://data.doremus.org/expression/57124e11-dc79-399c-96bf-e4ee8e8f8d01,,,TVWV 22:8,,,Christoph Gottlieb WEND
+http://data.doremus.org/expression/45a701a2-fb12-3db3-9346-cedc42270c77,,,K 529,,,Joachim Heinrich CAMPE
+http://data.doremus.org/expression/fb388307-6596-33b4-8d51-5602d7535bdb,,,D 724,,,J K UNGER
+http://data.doremus.org/expression/b17ecdd6-6813-3d3b-a6db-90216f6b4654,,,SW 15,,,Othmar SCHOECK , Philipp Otto RUNGE
+http://data.doremus.org/expression/00843f59-9210-3311-8aa7-a4df938988cc,,,D 375,,,OSSIAN
+http://data.doremus.org/expression/a7a08e86-232c-33ef-8344-f754a789556b,,,S 305/2 / R 581b,,,Franz von DINGELSTEDT
+http://data.doremus.org/expression/e1b82fbf-9f88-3616-9b11-36331f3122f7,,,BUX WV 23,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/3a7f91e8-27ca-3148-8cdc-31bbd99f6239,,,CT 14 / KK IVa n° 9,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/ad446ce5-5418-39fe-86e8-a2d2851c74cc,,,NB 57,,,Camille MAUCLAIR
+http://data.doremus.org/expression/760137ab-41ae-3d51-be29-a50a402058e2,,,FP 135,,,Paul ELUARD
+http://data.doremus.org/expression/c8f453d1-3cd7-3020-878b-094fd6d20b6e,,,n° 122,,,Camille SAINT SAENS
+http://data.doremus.org/expression/70a4e356-eea0-3cb5-8806-73983ffa53f6,,,NB 54,,,Camille MAUCLAIR
+http://data.doremus.org/expression/eb8c7a88-8db4-3c15-8cc7-21ae1987d396,,,H 313,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/58a5bb83-fbad-3b3f-8877-6ccca1dfbbbe,,,BWV 110,,,Georg Christian Lehms
+http://data.doremus.org/expression/9c1c6279-d4f3-3e2d-a8a1-8be6c6e406ef,,,K 523,,,Joachim Heinrich CAMPE
+http://data.doremus.org/expression/06db20ad-25a2-3fd0-bfae-28b0b69f643b,,,97,,,Boris KOCHNO , Irène AITOFF
+http://data.doremus.org/expression/5c1ff507-44e5-353d-a208-bcedd6835f37,,,BWV 128,,,Ziegler Mariane von
+http://data.doremus.org/expression/03baf755-55bb-3ea3-a494-08c3f249e4c3,,,WoO 203,,,ANONYME
+http://data.doremus.org/expression/efe6bd7c-91e3-324e-97a9-a8e303f65400,,,46a,,,Pierre de RONSARD , Paul MORAND
+http://data.doremus.org/expression/cfca20aa-a472-328a-b4c8-d609759d4678,,,RV 589,,,Antonio VIVALDI
+http://data.doremus.org/expression/d8bd56ea-c9f4-378b-ac65-6b079318aae5,,,Hob XXI.3,,,van Gottfried SWIETEN
+http://data.doremus.org/expression/c4592ccf-b22c-363f-8913-d796f2df17e8,,,FS 18 / CNW 126, 127, 128, 129, 130, 131,,,Holstein Ludvig
+http://data.doremus.org/expression/6c9dad68-baf4-31cc-b26a-a8c9f77814df,,,BUX WV 97,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/45ccb027-2b77-3996-909f-b5fee82dee48,,,JB 1:112/4 et T 114,,,Bedrich SMETANA
+http://data.doremus.org/expression/6d7356cd-8701-3407-998e-47f689c24b7d,,,EG 153,,,Bjornstjerne BJORNSON
+http://data.doremus.org/expression/0765ca37-1952-3af5-a5f6-84525fc3a848,,,S 555 / R 240,,,Camille SAINT SAENS
+http://data.doremus.org/expression/9345af8c-c551-3fc8-a345-3310b491bcbd,,,S A/18,,,Ferdinand Conrad MEYER
+http://data.doremus.org/expression/8ff355cd-91a4-310c-aa96-d03abd9d95c9,,,S 337 / R 633,,,Ferdinand von SAAR
+http://data.doremus.org/expression/02fd9fc2-96e5-3a0f-8acd-a2fc2afd532e,,,W 374,,,Pierre REYNIEL
+http://data.doremus.org/expression/be0dab75-5fad-3252-8c46-d32b7f4293ee,,,D 445,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/09915cfb-313f-36ad-a986-27adca91ee78,,,HWV 284 / HWV 285 / HWV 286,,,Wesley Charles
+http://data.doremus.org/expression/fcd9413c-741e-342b-a54f-df8b2e89b70e,,,W 268,,,Octave Pradels
+http://data.doremus.org/expression/2e0f9a3a-ac01-3490-9c2f-8e5c7fd4aa2c,,,MH 454,,,Michael HAYDN
+http://data.doremus.org/expression/4de508f1-8704-3390-9990-8f422a008e1f,,,FS 52 / CNW 291,,,Hostrup Jens Christian
+http://data.doremus.org/expression/493fdbeb-a0b7-3139-9a52-1e95d027a387,,,L 16 / (7),,,André GIROD
+http://data.doremus.org/expression/a4f91878-af3b-3771-9651-40013d99cad3,,,D 910,,,SCHOBER
+http://data.doremus.org/expression/9c81cb5d-b000-336e-b3e6-7efe49532edb,,,S 345 / R 638,,,Joseph Victor SCHEFFEL
+http://data.doremus.org/expression/ae1743a0-276e-30c8-a7e8-ab0ef883e8e0,,,TrV 180,,,ANONYME
+http://data.doremus.org/expression/70b16466-06e2-313c-ba8e-9824570b34fd,,,CNW 225,,,Rordam Valdemar
+http://data.doremus.org/expression/7f1709bc-e22f-39e4-8214-33991084f977,,,FP 86,,,Paul ELUARD
+http://data.doremus.org/expression/b89494a0-1db7-3b22-865d-c48c01247745,,,BWV 129,,,Olearius Johann
+http://data.doremus.org/expression/8dd56ac2-378e-30fc-b9b0-145e527ccfab,,,G 543,,,Pier Angelo TRENTA
+http://data.doremus.org/expression/afcbec43-cf4d-333e-be20-9e3fda384058,,,HWV 185,,,Ortensio MAURO
+http://data.doremus.org/expression/350f1d03-2042-39d2-b8f6-a0e34b3c5ae1,,,K 468,,,Joseph von RATSCHKY
+http://data.doremus.org/expression/77674eea-3041-3a08-8eaf-5c51bffd30fc,,,WoO 121,,,FRIEDELBERG
+http://data.doremus.org/expression/7a839017-a6f3-3a7f-9dbf-d470238ecff7,,,HWV 50b,,,John ARBUTHNOT
+http://data.doremus.org/expression/f2b37f5c-7c83-32f6-856a-b58f5c43a743,,,CT 136,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/cc23af1b-4e8e-33eb-995c-fbca921a20de,,,R XXXIII,,,DIVERS
+http://data.doremus.org/expression/7fdb8db5-24d9-3c33-8f97-7288449c2334,,,BUX WV 24,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/48f34cf4-5f4a-3c77-a3ee-b2ca587594f1,,,D 933,,,LEITNER
+http://data.doremus.org/expression/48109904-adea-347c-9cf2-c09ef5556e4b,,,FP 20,,,Jean COCTEAU
+http://data.doremus.org/expression/984e8e4c-f53c-3009-a1a4-d137b9f72df5,,,TWV 21:25,,,Christoph Gottlieb WEND
+http://data.doremus.org/expression/78abe205-f6ab-394b-bdc2-175ad015e19f,,,Z 438,,,ANONYME
+http://data.doremus.org/expression/31a5a6ca-3c7e-3eb3-837d-409447f1567e,,,H 300,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/0c1a3835-d83f-3c54-8df6-b784e3bec71e,,,D 313,,,KOSEGARTEN
+http://data.doremus.org/expression/3263be22-efa8-33e9-9eb2-b03787d1d96b,,,MH 331,,,Michael HAYDN
+http://data.doremus.org/expression/2c335c33-c0b8-3df5-91a5-94c4e2cea766,,,H 148,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/382ca85f-7294-3d04-8c32-d385f27947c9,,,MH 306,,,Michael HAYDN
+http://data.doremus.org/expression/2f46b3b8-aaf8-33a2-a809-1df672acde1d,,,H 249,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/ee0ed35f-41a2-35d0-8303-747d2da6c47d,,,FP 31,,,ANONYME
+http://data.doremus.org/expression/619d692c-b382-398a-87e3-318285ad9453,,,D 492,,,MAYRHOFER
+http://data.doremus.org/expression/c42ecfce-3b14-3ea3-8663-f9fcc17e4e3a,,,FS 302 / CNW 115,,,Seedorff-Pedersen Hans Hartvig
+http://data.doremus.org/expression/18d8e49f-8b87-31e1-abb4-bde475c7dba6,,,W 301,,,Edouard GUINAND
+http://data.doremus.org/expression/4f0f3c10-ce91-369f-b818-36d9302f22a6,,,EG 138,,,Bjornstjerne BJORNSON
+http://data.doremus.org/expression/1a59b5d8-2b97-34a2-a93f-bcc0c864714f,,,KV 344 (336b),,,Johann Andreas SCHAChtNER
+http://data.doremus.org/expression/c666e31f-541a-3959-917d-5c501167d2b1,,,K 247,,,Adam OEHLENSCHLAEGER
+http://data.doremus.org/expression/5f0659bc-4e3c-35e1-a232-4bf2278a524b,,,WoO 158,,,ANONYME
+http://data.doremus.org/expression/827779b7-a71c-3d7f-afa2-9677fc5f8858,,,W 379,,,Pierre REYNIEL
+http://data.doremus.org/expression/353c1c83-9e04-3b32-a2ae-cfb4ddff735f,,,BUX WV 103,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/3090a22d-1fef-37a6-b0b3-356fbb2b893e,,,BUX WV 114,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/a18cccd7-7dd3-365f-8d41-154856f1519f,,,D 230,,,KOSEGARTEN
+http://data.doremus.org/expression/a3a1766a-2152-3028-a2a8-a46df97d41b2,,,D 881,,,Baron SCHLEChtA
+http://data.doremus.org/expression/e6174021-7f2d-34f7-bbf5-12e2288ffaab,,,K 126,,,Pierre METASTASE
+http://data.doremus.org/expression/7d748c4c-f36a-3950-bafb-60a93426aeea,,,RV 104, F XII/5,,,Antonio VIVALDI
+http://data.doremus.org/expression/7012d9a1-3555-3057-99cd-a83995374569,,,FS 109 / CNW 315,,,Bernsten Aage
+http://data.doremus.org/expression/42a10ba3-486f-35e1-b4b9-f055a2b22e91,,,Z 397,,,Charles WEBBE
+http://data.doremus.org/expression/ad5a391b-3e27-3c88-bad7-e39488aa9280,,,BUX WV 257,,,Claude réal CRUSSARD , Dietrich BUXTEHUDE
+http://data.doremus.org/expression/26eb4aeb-5752-330e-abcb-d4903f60bf70,,,S 325 / R 619,,,Carl COLONIA
+http://data.doremus.org/expression/ba0cad13-4b8b-386f-b4c3-394b7bebc859,,,K 392 (340a),,,J T HERMES
+http://data.doremus.org/expression/1696658d-8c99-30ea-8c51-6deb8eee0aa7,,,HWV 47,,,Sigismondo Carlo
+http://data.doremus.org/expression/ffbff312-7de2-32d6-baa2-b261f465157b,,,BUX WV 27,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/3c62a9ae-586e-3129-baf4-1004813e09eb,,,D 174,,,KORNER
+http://data.doremus.org/expression/f37773c4-7490-36dc-a6b8-ed87418ad503,,,BUX WV 140,,,S. trans PROKOFIEV , Dietrich BUXTEHUDE
+http://data.doremus.org/expression/8ec59130-86a0-3a0f-bd61-8464b98e9346,,,HWV 188,,,G. D. DE TOTIS
+http://data.doremus.org/expression/bcb629ad-57ec-3c0f-ab4a-eedc482cde27,,,W 328,,,Charles FUSTER
+http://data.doremus.org/expression/34e587dd-5cf1-3dec-a78c-b1f8e8c5bd61,,,J 96,,,Hiemer Franz Carl
+http://data.doremus.org/expression/df7c8006-850e-3ab0-be8d-2c4e0b8bb05a,,,D 620,,,MAYRHOFER
+http://data.doremus.org/expression/b33ae6d2-19c5-34fe-b76c-fd5111b96110,,,D 269,,,Johann Christoph WANNOVIUS
+http://data.doremus.org/expression/2ac15db5-35fd-3167-ac50-b492873d5554,,,Z 406,,,Katherine PHILIPS
+http://data.doremus.org/expression/a883c068-16be-3f63-a646-a89943ce3f70,,,S 269/1 / R 593a,,,Bocella Cesare
+http://data.doremus.org/expression/bc703f48-6c98-3a99-bf92-d8cf24b0afc8,,,K 349 (367a),,,Johann Martin MILLER
+http://data.doremus.org/expression/cc4ec694-1362-3091-a01f-82de70a7ba39,,,D 183,,,A ZETTLER
+http://data.doremus.org/expression/985e1d90-8b17-32ec-ba7b-ea89e56cb888,,,op 51,,,Dmitri KABALEVSKI
+http://data.doremus.org/expression/c3fa8c63-5fab-3192-9384-37cd74dc083f,,,K 439,,,Pierre METASTASE
+http://data.doremus.org/expression/c5e00d45-8157-3474-9204-0ca8b82e8cfe,,,D 372,,,STOLBERG
+http://data.doremus.org/expression/329443de-1c90-3e1c-8fbc-ad8739a4c9b3,,,H 380,,,TRADITIONNEL
+http://data.doremus.org/expression/334018bc-a792-3b71-9079-2616b9e4a8c9,,,D 286,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/6f4c9a2b-f333-324c-99e3-2e64d523573e,,,CT 132,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/7818db53-66a4-3142-b202-6d6d090f4e03,,,L 69 / (62),,,Gabriel Sarrazin
+http://data.doremus.org/expression/d382af97-ee2d-35f2-882f-663de059e938,,,H 16,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/072d165b-f54d-3e0a-980f-54716d4d3c43,,,P 153,,,Ottorino RESPIGHI
+http://data.doremus.org/expression/a42c77cb-20e1-33c2-acc0-97ba0b2e417a,,,WoO 4,,,T ULLRICH
+http://data.doremus.org/expression/8185a9e3-f819-3067-bd34-1e4b8cc8d1c7,,,D 553,,,MAYRHOFER
+http://data.doremus.org/expression/ef7783aa-637a-3263-95b8-f702738c4aec,,,W 351,,,Robert MYRIEL
+http://data.doremus.org/expression/86d0c32e-adee-3b3c-8e15-4a2bb197c0bb,,,WoO 125,,,William WENNINGTON
+http://data.doremus.org/expression/a8cd489f-6caa-32c1-8f60-ed276fbac766,,,H 310,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/70938b88-ddc8-3a6e-a726-6f3b16a6de7e,,,BUX WV 60,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/d4561bc3-dd4b-3138-a8d6-2a85b307e6a6,,,WoO 110,,,ANONYME
+http://data.doremus.org/expression/02a53b2b-f077-3e48-9d47-df532e09243f,,,D 373,,,FOUQUE
+http://data.doremus.org/expression/3e64e077-90c6-3dca-bd2b-91b117dac083,,,H.35,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/76f2b893-37b4-3093-9584-c4d09c70110d,,,WoO 124,,,Pierre METASTASE
+http://data.doremus.org/expression/076b9092-8912-3523-a190-cb6ef5aa1693,,,L 107 / (78),,,Paul GRAVOLLET
+http://data.doremus.org/expression/0668c5d0-ca58-376e-9e50-3836a5beeaa9,,,AV 118 / TrV 264,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/7d1e2526-bd61-3eef-857a-d770e3c9e59f,,,K 598,,,C A OVERBECK
+http://data.doremus.org/expression/49a2e11e-7da8-3bef-b91a-a0d4154c38aa,,,Ms 59,,,Niccolo PAGANINI
+http://data.doremus.org/expression/4b113c60-1316-31d4-8b74-4128895b6f43,,,H 19,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/de10365a-8298-3a36-8291-5a26f9867fb1,,,D 457,,,KOSEGARTEN
+http://data.doremus.org/expression/7e32c791-8dcf-3665-b00d-6eaec78642fd,,,Z 431,,,ANONYME
+http://data.doremus.org/expression/38350d62-c057-37eb-9365-76cb5bff9102,,,op AV 129 / TrV 280,,,Weinheber Josef
+http://data.doremus.org/expression/e09bc53f-83a3-363e-b3b1-788074b7a5d3,,,L 97 / (90),,,Pierre LOUYS
+http://data.doremus.org/expression/163e74bb-ca26-33bd-b9d7-84072ec83aec,,,Hob XXVIII:8,,,Francesco PUTTINI
+http://data.doremus.org/expression/34c0e27c-1d9e-3b37-814b-028691bdc3b2,,,Hob XXVIa:41,,,Anne HUNTER
+http://data.doremus.org/expression/65a0e209-0d36-3f41-9bcf-6093edfe5b00,,,D 5,,,C A SCHUCKING
+http://data.doremus.org/expression/0842bb67-2288-36ca-8958-74a0161e28b5,,,D 281,,,OSSIAN
+http://data.doremus.org/expression/b2728d02-b671-3811-aacb-2dc53201bf53,,,K 532,,,Pierre METASTASE
+http://data.doremus.org/expression/ece10e94-8a98-3bb5-be3c-65b98aac42f1,,,H 83,,,Henri d' ORANGE
+http://data.doremus.org/expression/e51f433f-5605-3d07-bdd3-3ddcf523928e,,,D 508,,,MATTHISSON
+http://data.doremus.org/expression/f63a3fcd-c952-3faa-a282-d650e8f5e62a,,,RV 610 / RV 611,,,Antonio VIVALDI
+http://data.doremus.org/expression/96f961fc-24d2-30d5-af63-aeed03b85ebc,,,FP 77,,,Paul ELUARD
+http://data.doremus.org/expression/c2e8551b-292a-32bd-8008-62350bc3b3fe,,,H 303,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/feec9b0f-91d6-3677-a612-024078feeab8,,,W 331,,,Charles FUSTER
+http://data.doremus.org/expression/3842509b-b942-35d0-9739-7a2cc655bba5,,,NB 53,,,Camille MAUCLAIR
+http://data.doremus.org/expression/cb9a2553-e2d0-36a5-bb17-c574769822be,,,FP 98,,,Paul ELUARD
+http://data.doremus.org/expression/7ed09542-fb1a-38c0-b59a-90ecb70996b8,,,D 93 n° 2,,,Friedrich Heinrich Karl de LA MOTTE FOUQUE
+http://data.doremus.org/expression/41eb9515-74cf-30b9-9211-b46804df4c19,,,FP 95,,,Charles d' ORLEANS
+http://data.doremus.org/expression/61be9a74-32e6-30ca-899d-1828aaa3864c,,,D 288,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/de15924e-86fe-3125-8d22-9995eb11cea9,,,H 125,,,Adolphe de BOUCLON
+http://data.doremus.org/expression/5c380cfc-f7fd-3938-b536-f0bacd8cd58b,,,D 789,,,SCHOBER
+http://data.doremus.org/expression/53f8f541-2406-3cf5-8b87-f1996dafb74b,,,L 15 / (33),,,Charles Marie LECONTE DE LISLE
+http://data.doremus.org/expression/17173c68-a120-349e-a22b-81cfe0263561,,,D 902,,,Pierre METASTASE
+http://data.doremus.org/expression/8d40c4d8-9f91-39ce-a250-face832c00a4,,,AV 13 / TrV 16,,,Fallersleben Hoffmann von
+http://data.doremus.org/expression/edd5ad12-27c4-3f6a-a3bc-e9dd0b77a83e,,,D 115,,,MATTHISSON
+http://data.doremus.org/expression/b703d22b-ca10-38ad-a675-2df97d5e7552,,,D 240,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/b6c8f73c-f641-33f6-b9a5-7454f890ea38,,,EG 156,,,Johnsen Rosenkrantz
+http://data.doremus.org/expression/2f3ef0f0-3044-36d8-893d-82691eee549b,,,Z 600,,,Thomas SHADWELL
+http://data.doremus.org/expression/b0525917-5a6e-3c59-a8ca-c3f34fe0b546,,,MH 431,,,Michael HAYDN
+http://data.doremus.org/expression/538c159c-724f-30de-b490-15d8df0bf51c,,,BWV 199,,,Georg Christian Lehms
+http://data.doremus.org/expression/dbdf2fe5-1b20-322a-89fe-03e9a02fb356,,,D 289,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/329a79d9-90f1-3bb0-91bf-90e4c913d908,,,WoO 173,,,ANONYME
+http://data.doremus.org/expression/0ee3f485-8350-39e9-bc93-c3654b73516c,,,H 253,,,Karel SOLC
+http://data.doremus.org/expression/3d2001f2-9259-3437-9c28-a1c2d7c4d8f9,,,D 901,,,Hans HAUG
+http://data.doremus.org/expression/e6b31b62-fa2c-33af-83ea-29d4d076cb9b,,,HWV 194,,,Ortensio MAURO
+http://data.doremus.org/expression/42203cf4-513d-3dbb-8586-6002010247b5,,,W 311,,,Charles FUSTER
+http://data.doremus.org/expression/765d7992-d33e-3af0-8add-7fcd4ce82432,,,W 321,,,Charles FUSTER
+http://data.doremus.org/expression/73ea656c-3f96-3cbd-b3a0-7c9eb9b0be0a,,,32,,,Georges JEAN AUBRY , Philippe CHABANEIX
+http://data.doremus.org/expression/c3df4e94-7ca1-33c4-a800-d7888827feba,,,H 321,,,ANONYME
+http://data.doremus.org/expression/81935d1f-854f-3df1-a6fd-07433326fd05,,,WoO 192,,,ANONYME
+http://data.doremus.org/expression/e1b4f6fa-f860-3a5a-ac83-923af1e52086,,,Z 400,,,ANONYME
+http://data.doremus.org/expression/9308d569-949c-32e5-a5ce-20f20ebcb448,,,D 222,,,Albert STADLER
+http://data.doremus.org/expression/d353fcd9-5fe2-37e5-9fab-eda32143f881,,,TrV 186,,,Friedrich KLOPSTOCK , ANONYME , Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/9f381217-6cb9-3a08-9b55-8e0f060654df,,,MH 827,,,Michael HAYDN
+http://data.doremus.org/expression/2b0dad92-6b3a-39cb-a85f-3a6b2fe8050c,,,41b,,,Maurice CONSTANTIN WEYER
+http://data.doremus.org/expression/48c21be8-01dc-3a30-a899-a22c4755877b,,,SW 4,,,Othmar SCHOECK
+http://data.doremus.org/expression/820c490d-4f11-30a1-ad63-f0b0ccf6c40f,,,B 104,,,Heyduk Adolf
+http://data.doremus.org/expression/6de328dc-397b-33f3-b322-f894627b1ec2,,,EG 135,,,Nikolajsen V
+http://data.doremus.org/expression/eac0c2e5-868e-3cfa-899c-639f2de48239,,,WoO 133,,,Carpani Giuseppe
+http://data.doremus.org/expression/a79c91a7-c2a5-3d50-8418-c7aff8d9261c,,,EG 129,,,Kristofer Janson
+http://data.doremus.org/expression/2fc5b817-e478-3960-9e75-53d40cf70f68,,,WoO 149,,,P von HAUGWITZ
+http://data.doremus.org/expression/aa19a8d0-fe17-3fa0-b4c9-7136a9627a8b,,,K1 à K6,,,Gottfried (LITTERATURE) KELLER
+http://data.doremus.org/expression/0a80624d-51d8-3f9d-a35f-157d2e24ab60,,,D 177,,,J K BERNARD
+http://data.doremus.org/expression/8dfe996f-ae77-3ded-bd97-689cae48769d,,,Z 387,,,ANONYME
+http://data.doremus.org/expression/b27c8582-88c3-3e47-8e06-e0623fcdda42,,,D 662,,,NOVALIS
+http://data.doremus.org/expression/4e8d10d2-c889-3779-82eb-283396729aad,,,W 348,,,Charles FUSTER
+http://data.doremus.org/expression/fc6f3003-77ff-374d-87d8-f35929ca5f8e,,,D 585,,,MAYRHOFER
+http://data.doremus.org/expression/009d8d88-28db-3cf3-8ed7-1a9b009d5561,,,D 671,,,MAYRHOFER
+http://data.doremus.org/expression/1995dbbf-9e04-3627-886f-ea24c4d40e9f,,,HWV 50a,,,John ARBUTHNOT
+http://data.doremus.org/expression/96accb6c-68b4-3e01-8e02-2f3eeb8bf0d7,,,D 688,,,Pierre METASTASE
+http://data.doremus.org/expression/efaef04d-c02a-3140-8114-0bb0406b1e5a,,,75,,,Brach Paul
+http://data.doremus.org/expression/e5276236-4da0-3dd1-a80a-b37b17138898,,,D 744,,,J C SENN
+http://data.doremus.org/expression/df511857-f2f8-30f7-80f6-03dca5dc5f7c,,,Hob XXIXb:F add,,,Maurus LINDEMAYR
+http://data.doremus.org/expression/bd57376a-e7b4-3a5d-a018-3ad065a3e7d9,,,Z 420,,,ANONYME
+http://data.doremus.org/expression/4f48c604-db58-3396-aae6-66b53d011631,,,W 266,,,Georges VAN ORMELINGEN
+http://data.doremus.org/expression/3d9ef5f7-e135-3d7f-9743-78102e13cd2c,,,D 756,,,Graf PLATEN
+http://data.doremus.org/expression/080e1ec4-7fd2-39c0-8b89-2314257bdbd8,,,TrV 189,,,Richard von DEHMEL
+http://data.doremus.org/expression/287f10da-9457-3334-b61c-167fe91d1c5b,,,BWV 73,,,Franck Salomo
+http://data.doremus.org/expression/cde9284b-6cba-3c0e-b914-3b667b83e8be,,,H 147,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/b1d08920-820d-3e31-b9c3-fcfcb9f4f8cd,,,BWV 57,,,Georg Christian Lehms
+http://data.doremus.org/expression/498a27b2-6eba-3758-8f8f-e58faae1adda,,,TrV 203,,,Wolzogen Ernst von
+http://data.doremus.org/expression/22835a35-3ebf-32e5-a8ae-9cab650cd6eb,,,BUX WV 253,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/9b726b27-87c4-3aaa-8f73-6ffc1c1a448b,,,D 37,,,Karl August ENGELHARDT
+http://data.doremus.org/expression/8e6b6071-0bd8-300a-8917-71b35c3c9240,,,FS 47 / CNW 105,,,Moller Niels
+http://data.doremus.org/expression/6544955b-5eaa-3452-8a5b-d6e51f217f20,,,Hess 151,,,ANONYME
+http://data.doremus.org/expression/c0f69cc3-6640-3f8d-a441-96981ccd53c7,,,WoO 120,,,ANONYME
+http://data.doremus.org/expression/391d34f5-a6fe-3191-bbe7-d6fb5f221c77,,,BUX WV 46,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/f7c89213-f7ee-3efa-8f19-616ef380b279,,,BA 1165,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/7af237b8-b88d-3a56-84b7-d0310478b6b5,,,D 316,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/818e1c1d-41ee-3f16-b096-476e5982fc31,,,G 7026 B,,,Thierry ESCAICH
+http://data.doremus.org/expression/2df07c76-8467-36ed-9db6-d249a0d0f07c,,,Ms 77,,,Niccolo PAGANINI
+http://data.doremus.org/expression/896279ab-33ae-35d1-8453-e1d030b4b2ba,,,WWV 91,,,Mathilde WESENDONCK
+http://data.doremus.org/expression/5a517fb1-5330-32fc-8a27-751317b0330b,,,D 547 b,,,SCHOBER
+http://data.doremus.org/expression/1d24daf5-b778-33f7-b104-f07897e25b95,,,Z 585,,,R. NORTON
+http://data.doremus.org/expression/452918db-8307-32f4-b6d6-0a4c3d818ad9,,,K 208,,,Pierre METASTASE
+http://data.doremus.org/expression/d25f42c8-beda-3f55-bba6-bcb8e468b3e7,,,D 293,,,OSSIAN
+http://data.doremus.org/expression/4615de30-8089-304e-99aa-f7be7f7d2f8d,,,D 699,,,MAYRHOFER
+http://data.doremus.org/expression/3bb9411b-de91-3f83-9ff4-2af28e0f7f5d,,,MH 157,,,Michael HAYDN
+http://data.doremus.org/expression/c6c4d149-6ce7-33ba-8122-22c8d00b7683,,,D 754,,,MAYRHOFER
+http://data.doremus.org/expression/a43cd4ce-fc2a-3d5b-b877-b142d0a0c149,,,H 70,,,Léon GUERIN
+http://data.doremus.org/expression/2d5cc943-b19c-3539-a820-94a9c4733186,,,Hob XXI:1,,,Giovanni Gastone BOCCHERINI
+http://data.doremus.org/expression/b6262ed0-a123-3dad-96dc-acb53bf2adf3,,,W 340,,,D ENOCH
+http://data.doremus.org/expression/0f0bc774-b59d-3b8b-a372-dd0ff24f29ab,,,BWV 32,,,Georg Christian Lehms
+http://data.doremus.org/expression/de0a9538-61ea-3eb5-81e7-3a0454eff83f,,,21,,,Tristan DEREME
+http://data.doremus.org/expression/adede7b6-8aa0-3786-b999-53938e6cce94,,,W 270,,,Henry MAIGROT
+http://data.doremus.org/expression/0f813a44-99ed-3ef9-af5f-73f23958efe3,,,D 757,,,Ewald Christian KLEIST
+http://data.doremus.org/expression/7d4b4c87-b5eb-3f3e-9df9-be72b1f57c3a,,,W 316,,,Charles FUSTER
+http://data.doremus.org/expression/422e5d4f-fc02-360e-a713-a92422b21745,,,WoO 119,,,Pierre METASTASE
+http://data.doremus.org/expression/36466e4d-1dc4-3d0b-bcc5-c91cfc62ba2c,,,D 473,,,MAYRHOFER
+http://data.doremus.org/expression/49d36a85-75b6-371c-afa7-4aae6c3a10da,,,JB 1:112/2 et T 111,,,Bedrich SMETANA
+http://data.doremus.org/expression/ac831d95-5f71-3309-800c-ceeb6a2c7b59,,,BUX Anh. 1,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/b61a9413-fb57-3a70-94a6-dbff62740510,,,TrV 279,,,Clemens KRAUSS
+http://data.doremus.org/expression/3d7784ea-670a-3308-8f09-23eec33b74e6,,,TrV 204,,,ANONYME , Remer Paul
+http://data.doremus.org/expression/d9cb2ccb-6510-3483-a194-686c4411a29d,,,WoO 175,,,ANONYME
+http://data.doremus.org/expression/7e82d4cb-5cb5-3867-9706-33ef852209c0,,,TVWV 21:27,,,Christoph Gottlieb WEND
+http://data.doremus.org/expression/7e0258ef-214e-3c9e-8324-3e2198071118,,,BUX WV 252,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/0d230ead-f69d-3c68-98ef-556f9e40cf6d,,,HWV 26,,,Giacomo ROSSI
+http://data.doremus.org/expression/870230a7-0be3-3697-9966-e31c7a28f4ad,,,D 792,,,SCHOBER
+http://data.doremus.org/expression/e7cd3bc4-5e30-3b77-9742-c4292c38e9be,,,27368 H.L.,,,Michaël LEVINAS
+http://data.doremus.org/expression/29a897d5-ff8e-395a-99a8-e9eef4b9437b,,,CT 10 / KK IIb/1,,,Auguste FRANCHOMME
+http://data.doremus.org/expression/f70b68f8-34ac-3f0b-9d61-c3f1d4cac1c4,,,D 700,,,MAYRHOFER
+http://data.doremus.org/expression/ec61ddec-c8e1-35e1-bb49-562beeaeb9c8,,,W 290,,,Armand LAFRIQUE
+http://data.doremus.org/expression/f994cf8b-32d6-3c44-8c2c-b28922b77fbd,,,W 337,,,Edouard GUINAND
+http://data.doremus.org/expression/89419d52-9cce-3f38-bc2e-0fa808c56d16,,,D 510,,,Pierre METASTASE
+http://data.doremus.org/expression/33fb0aad-2e62-36c3-8fe1-b09971667402,,,L 51 / (40),,,Alphonse de LAMARTINE
+http://data.doremus.org/expression/4176de57-c25c-34af-950d-5769f356b643,,,D 317,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/1881c6b4-c809-33ed-88ee-9c4819177cea,,,Z 409,,,ANONYME
+http://data.doremus.org/expression/c340a5d7-f5b2-3857-8476-ac713e9bdbda,,,D 661,,,NOVALIS
+http://data.doremus.org/expression/51319fc2-3b43-35db-af8d-d975d5dac7ea,,,Z 393,,,ANONYME
+http://data.doremus.org/expression/2b42db63-987b-36a7-ab96-13006b9e74d7,,,CT 130,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/6bdc910b-03af-3054-aade-8bea4abbdd39,,,D 741,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/e2cc1393-def6-3df8-becb-f71abab39684,,,K 486a (295a),,,Pierre METASTASE
+http://data.doremus.org/expression/6e2341fb-ba0a-359a-ad24-dc59e866e32c,,,FP 147,,,Paul ELUARD
+http://data.doremus.org/expression/b377a72a-5850-349b-85e3-102103bcc732,,,BUX WV 110,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/ba70c1ee-abb9-3d80-981e-d4c96c3c4c68,,,K 437,,,Pierre METASTASE
+http://data.doremus.org/expression/9b9e0be5-3e1d-3f50-81d1-e5d0cf0cfc9c,,,HWV 11,,,Giacomo ROSSI
+http://data.doremus.org/expression/bb9e99ff-f920-3766-b2da-c7fa5476f465,,,D 291,,,Friedrich KLOPSTOCK
+http://data.doremus.org/expression/4c1b7bc7-678f-31ce-811d-4305eb15deb3,,,L 99 / (92),,,Charles d' ORLEANS
+http://data.doremus.org/expression/c99ba4b1-5e22-3d30-bd42-16f86954cd84,,,MH 814,,,Michael HAYDN
+http://data.doremus.org/expression/7d61086b-422a-3a35-b799-514cf2aaae63,,,H 22,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/39394157-814f-3d99-a9dd-bc26a074eada,,,HWV 18,,,Agostino PIOVENE
+http://data.doremus.org/expression/d99eccb3-b166-372f-90ae-1b7f4aa5b04d,,,HWV 27,,,Pierre METASTASE
+http://data.doremus.org/expression/6abf050e-23e8-39a1-b80d-a7503911c820,,,WWV 57,,,Pierre de RONSARD
+http://data.doremus.org/expression/860d86b0-dd21-36ef-87b7-95274626b444,,,TrV 267,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/df1bfb56-680c-30ab-a7ab-23481622378f,,,L 37 / (24),,,Ségur comte Anatole de
+http://data.doremus.org/expression/c2bed83c-e474-3b56-bf30-640437afb0d6,,,W 326,,,Charles FUSTER
+http://data.doremus.org/expression/dac74a8f-10c1-3eb4-a660-4e6f93ab54a5,,,Z 399,,,ANONYME
+http://data.doremus.org/expression/4e0bac8e-2346-3aaf-b31a-40d5eaec5676,,,J 267,,,Gerstenbergk Friedrich von
+http://data.doremus.org/expression/6bffd72d-03f1-3caa-a742-4f3bcbaa2861,,,D 93 n° 1,,,Friedrich Heinrich Karl de LA MOTTE FOUQUE
+http://data.doremus.org/expression/303693e9-4906-3a41-9e9f-a51ac264d38e,,,CT 131,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/f4fd70ab-2c1c-32b4-8228-01eaec5adac6,,,D 777,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/cff1ddfd-4f2c-3d81-bb93-c49a8ea45b93,,,Z 371,,,Charles SEDLEY
+http://data.doremus.org/expression/86c43076-d458-3bfa-8744-e800bff1623a,,,HWV 37,,,Niccolo BEREGANI
+http://data.doremus.org/expression/dc45210d-e42b-39df-8097-38679a5c3eb0,,,Z 578,,,Charles D'URFEY
+http://data.doremus.org/expression/742c8bad-2bf7-39a4-a238-020918253c1c,,,B 72,,,Francois Joseph GOSSEC
+http://data.doremus.org/expression/7becc03c-f78d-3536-9106-a1c5d4824594,,,BUX WV 48,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/1e6570da-cc14-3d43-93bf-257c529ae179,,,D 231,,,KOSEGARTEN
+http://data.doremus.org/expression/f9a7cd0f-13a3-33c9-9190-d80700f55179,,,24,,,Vallery-Radot Pasteur
+http://data.doremus.org/expression/8c76d219-40e3-3782-93d9-aca896990a93,,,EG 155,,,Langstedt Adolf
+http://data.doremus.org/expression/d5d78cd3-3de0-367b-b585-68b23d946bfe,,,JW IV/40,,,F S PROCHAZKA
+http://data.doremus.org/expression/9e84735d-5335-322b-bdc5-99c7f7fd36db,,,Z 370,,,ANONYME
+http://data.doremus.org/expression/42d42d45-31b2-3fbb-9b48-b7dd78a8f05d,,,K 216,,,Manuel QUIROGA
+http://data.doremus.org/expression/fb485acf-0450-3992-a5fb-c66aba5dd6d2,,,D 319,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/bc119510-3efa-3f92-9570-4929acdf8a88,,,MH 683,,,Michael HAYDN
+http://data.doremus.org/expression/64d77f85-cab8-3165-9ef5-a31cb2047bf7,,,AV 115 / TrV 260,,,Friedrich Johann Michael RUCKERT
+http://data.doremus.org/expression/c6233c4f-695d-3232-9123-137d00106cb5,,,K 447,,,W. arr SALOMON
+http://data.doremus.org/expression/84c49d82-58b0-3790-b376-dd41573bfe4f,,,K304,,,Pietro Antonio BERNARDONI , Johann Joseph FUX
+http://data.doremus.org/expression/f2e1a389-da60-3021-8c87-212dbfb5d240,,,D 948,,,A SCHMIDL
+http://data.doremus.org/expression/9e32f523-f988-3806-b158-7fe8e20f631c,,,D 926,,,LEITNER
+http://data.doremus.org/expression/6deba4b9-2988-3c33-a598-09cc38872611,,,BUX WV 86,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/7311515e-3608-3fec-974f-256ea480ef72,,,GWV 145,,,Franz Xaver GRUBER
+http://data.doremus.org/expression/423ea0e3-5f90-3f68-9d78-8d4034871c0b,,,EG 123,,,Feddersen Benjamin
+http://data.doremus.org/expression/fcc0223c-f261-36e4-b424-352dd6300202,,,CT 144,,,Ludwika OSINSKIEGO
+http://data.doremus.org/expression/4930b817-f90f-377f-b208-b1599eb8faf6,,,SWV 23,,,Heinrich SCHUTZ
+http://data.doremus.org/expression/92e852cf-79cc-3f85-84c6-4ec7a81c30ad,,,HWV 184,,,Ortensio MAURO
+http://data.doremus.org/expression/4c4b7e37-ae86-3b40-b3cd-2f82b54ad479,,,WoO 184,,,ANONYME
+http://data.doremus.org/expression/aaa24284-d13a-33ae-974c-ce214287071c,,,HWV 66,,,ANONYME
+http://data.doremus.org/expression/a1e236a0-a660-3db9-aa9b-6de8b7d8eeb7,,,NB 52,,,Camille MAUCLAIR
+http://data.doremus.org/expression/ba883c87-7619-3d42-916c-3d06d943b6dc,,,RV 693,,,Antonio VIVALDI
+http://data.doremus.org/expression/83d4b8dc-1d00-3485-a67e-c3299d3cb5a5,,,91006,,,Georg Friedrich HAAS
+http://data.doremus.org/expression/a1ee4a51-5915-32cd-9388-5fef0083aa0b,,,MH 336, P 128,,,Michael HAYDN
+http://data.doremus.org/expression/5755bea4-27b0-3d0f-bc3c-1a0c5cc0e1cc,,,H 424,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/84ceccc2-3948-3b43-be1f-6f1bffba80ba,,,FS 39 / CNW 2,,,Vilhelm ANDERSEN
+http://data.doremus.org/expression/b5796085-b3b5-3e61-9ca1-77102a4df594,,,BUX WV 4,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/0e6162cb-f7d5-32bc-890e-1363147174bb,,,FP 129,,,Jean de BRUNHOFF
+http://data.doremus.org/expression/7a90a3e6-6250-305e-a157-b02dd5ab2876,,,K 549,,,Pierre METASTASE
+http://data.doremus.org/expression/d505c33b-5660-3a47-a2a7-3cef531f4315,,,TrV 257,,,Hafis
+http://data.doremus.org/expression/66474006-695d-316f-b3e3-88327ccbd6c7,,,L 21,,,Théophile GAUTIER
+http://data.doremus.org/expression/631980fd-57aa-3256-9551-8141ddc8bd2f,,,D 902,,,Pierre METASTASE
+http://data.doremus.org/expression/03cf448b-15f9-3547-bef4-4dc8ab57b8f8,,,TrV 170,,,Henckel Karl
+http://data.doremus.org/expression/e9f9efd2-86be-3c2b-b832-879301ca324a,,,BUX WV 96,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/8c42863f-339c-37c3-98b6-cb153d8d66c5,,,CT 138,,,Stefana WITWICKIEGO
+http://data.doremus.org/expression/8af215b6-aee3-3887-8940-1b57b1b3620c,,,W 363,,,Amélie de WAILLY
+http://data.doremus.org/expression/98f50215-7af7-326d-a6ca-8e7d5c135aea,,,SW 6,,,Othmar SCHOECK
+http://data.doremus.org/expression/082b251b-e903-3547-a7b6-acd2293f2a1b,,,BUX WV 31,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/7ca39ab7-2057-3245-a8bc-aed1de34db12,,,WWV 58,,,Jean (POESIE) REBOUL
+http://data.doremus.org/expression/0d7d7f1c-dc4b-3a72-9f1a-f7e65dde7798,,,SW 5,,,Othmar SCHOECK
+http://data.doremus.org/expression/5ed82923-12a1-33ed-85cc-ac6d0dce0310,,,H 195,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/fb35219c-fce4-3e6d-8fac-957bb1e7558a,,,D 514,,,Ludwig von SZECHENYI
+http://data.doremus.org/expression/d7839681-a043-3cd8-8912-337aea39385d,,,W 284,,,Rosemonde GERARD
+http://data.doremus.org/expression/e1245816-e28a-36c4-a5d1-f21d3ed92b18,,,ST 41, P 55,,,Michael HAYDN
+http://data.doremus.org/expression/b9ee1574-55bb-35c3-8fef-d3cf443791e5,,,WoO 103,,,Clemente BONDI
+http://data.doremus.org/expression/c8eadee6-b74f-32e0-ab7a-19367cc2be30,,,VI-1.9,,,Lorys Pierre
+http://data.doremus.org/expression/7bb2a728-8945-3a98-98ae-76084835b24c,,,FS 42 / CNW 135, 136, 137, 138, 139, 140, 141,,,Aakjær Jeppe , Rode Helge , Jørgensen Johannes , Jensen Johannes V.
+http://data.doremus.org/expression/71caa383-55fa-39f6-bead-c8267bbfe238,,,Z 631/10,,,William DAVENANT
+http://data.doremus.org/expression/e4f96c5e-cf11-3063-b9c7-77d5b5251e5e,,,D 528,,,Ariette von GOLDONI
+http://data.doremus.org/expression/5ad96d86-829a-32d2-93c5-bbe65a104825,,,L 132 / (125),,,Allan Maud, Courtney William Leonard
+http://data.doremus.org/expression/aa643884-8a0c-3326-8dbe-30a512f4442c,,,TrV 235,,,Clemens BRENTANO
+http://data.doremus.org/expression/3ff742d3-4a99-3e11-a683-95eee39307de,,,BUX WV 40,,,Dietrich BUXTEHUDE
+http://data.doremus.org/expression/b3c7a273-cd1e-3825-95c6-ce57ef8c0086,,,HWV 24,,,Pierre METASTASE
+http://data.doremus.org/expression/7d04d30d-0435-3cb7-8934-1b6bdd98e41a,,,D 411,,,Friedrich Ludwig Graf STOLBERG
+http://data.doremus.org/expression/5487f494-15a4-310b-9f58-b7335475cbcc,,,FS 78 / CNW 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224,,,ANONYME , Laub Thomas
+http://data.doremus.org/expression/852a8e1b-440e-3d49-8ac2-3fc425e39797,,,K 149 (125d),,,Johann Christian GUNTHER
+http://data.doremus.org/expression/71b75660-650f-3988-b4e8-d9af94c4dc3a,,,W 333,,,D ENOCH
+http://data.doremus.org/expression/52839548-17b5-3244-874b-329880bb7bdc,,,WoO 145,,,I von WESSENBERG
+http://data.doremus.org/expression/3fd75632-d31b-3078-9dd0-8029378e9293,,,Z 627,,,John Fletcher
+http://data.doremus.org/expression/ada04926-f7f1-3e58-a59c-0a72830b1d7a,,,FP 171,,,Jean COCTEAU
+http://data.doremus.org/expression/487e24c0-fd42-3a6b-a5df-4a69feaca485,,,D 228,,,Gotthard Ludwig KOSEGARTEN
+http://data.doremus.org/expression/66c88992-e2d4-360d-a4f8-5453382f8b91,,,W 298,,,Marc CONSTANTIN
+http://data.doremus.org/expression/6a709688-8f93-3ee2-a3e0-4e7b7588d3a4,,,D 266,,,Friedrich Leopold Grafen STOLBERG
+http://data.doremus.org/expression/72b46b0b-0272-34b3-9497-787ab8b8bfde,,,CT 147 / KK IVb n° 9,,,Bohdana ZALESKIEGO
+http://data.doremus.org/expression/7777362e-9e96-3f99-9e5f-5f45735299d3,,,W 329,,,Joseph Comtesse ROCHAÏD
+http://data.doremus.org/expression/994abbe5-083e-3754-b519-6c186b19e971,,,N° 190,,,Camille SAINT SAENS
+http://data.doremus.org/expression/0e52324b-a290-3452-b95f-7b1c69557bba,,,SG1 à SG10 et SW11 à SW34,,,ANONYME
+http://data.doremus.org/expression/c47181d6-4e35-3805-9705-32e3f8bb9f94,,,FS 54 / CNW 107,,,Nielsen L.C.
+http://data.doremus.org/expression/60c243ee-1916-3d96-8ebe-41f25d0a73e9,,,FS 69 / CNW 295,,,Holm Anders
+http://data.doremus.org/expression/61cdc8c8-0436-3109-a01a-5b7147db1f6b,,,Z 574,,,John Fletcher
+http://data.doremus.org/expression/db9986e1-e626-3b8c-a405-4918d5ba7c5e,,,WoO 144,,,Johann Baptist RUPPRECht
+http://data.doremus.org/expression/43096a36-a93a-3efb-a005-6ebe1919f952,,,Z 512,,,ANONYME
+http://data.doremus.org/expression/52e6ed26-ea26-3a93-bf1c-2aed66d4d3b1,,,H 317,,,Marc Antoine CHARPENTIER
+http://data.doremus.org/expression/445e1cf6-4d55-3ed7-9b18-6639e20027f0,,,AV 130 / TrV 281,,,Weinheber Josef
+http://data.doremus.org/expression/43e638b3-3292-346d-90a9-d8d73e243bf5,,,W 273,,,Auguste MARIN
+http://data.doremus.org/expression/29453cc8-ace9-330c-9248-8e79e20ab648,,,K 151 (125f),,,F R L von CANITZ
